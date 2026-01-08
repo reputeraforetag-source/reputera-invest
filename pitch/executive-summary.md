@@ -102,4 +102,4 @@ Byggd från grunden av founder Pierre Camilo:
 4. Term sheet diskussion
 
 **Kontakt:**
-Pierre Camilo | pierre@reputera.se | +46 70 XXX XX XX
+Pierre Camilo | pierre.camilo@reputera.se | 
