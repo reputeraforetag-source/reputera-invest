@@ -7,7 +7,7 @@ Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager dr
 ## 🚀 Snabbfakta
 - **Söker:** 6M SEK i seed-rundan
 - **Värdering:** [Förhandlingsbart] MSEK (pre-money)
-- **Milstolpe:** Bli Skandinaviens största AI-plattform för reputationshantering
+- **Milstolpe:** Bli Skandinaviens största AI-plattform för recensionshantering
 - **Traction:** 3 betalande kunder med bevisade resultat
 - **Location:** Stockholm, Sverige
 - **Founder:** Pierre Camilo – Byggt hela tekniska stacken solo
