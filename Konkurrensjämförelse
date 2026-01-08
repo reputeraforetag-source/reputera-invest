@@ -1,0 +1,28 @@
+### Konkurrensjämförelse: Reputera vs. Nordiska SaaS-konkurrenter inom Recensionshantering
+
+Reputera är en unik spelare i den nordiska marknaden för **automatiserad recensionshantering** (review/reputation management) för småföretag (SMB). Det finns få direkta nordiska SaaS-konkurrenter som erbjuder en fullt automatiserad plattform med SMS-insamling, smart routing (positiva recensioner till Google, negativa internt), AI-genererade svar och fokus på lokala servicebranscher som hantverkare, kliniker och frisörer.
+
+De flesta nordiska företag i närliggande områden fokuserar på bredare digital marknadsföring, customer experience eller allmän feedback, snarare än specifik recensionsautomatisering för SMB. Globala jättar som **Trustpilot** (danskgrundat) dominerar, men Reputera skiljer sig genom lägre priser (195–695 kr/mån vs. Trustpilots högre enterprise-priser), fullt proprietär teknik byggd av grundaren (ingen third-party-beroende), Sverige-fokuserad SMS (via 46elks) och nisch mot lokala småföretag.
+
+#### Nyckelkonkurrenter i Norden (baserat på marknadsdata 2026)
+Här är en jämförelse med de mest relevanta aktörerna:
+
+| Aspekt                  | Reputera (Sverige)                          | Trustpilot (Danmark, global)               | Reco.se (Sverige)                          | IIH Nordic (Danmark)                       | Övriga nordiska (t.ex. Knowit, Visma-relaterade) |
+|--------------------------------|---------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|-------------------------------------------------|
+| **Fokus**                      | Automatiserad recensionshantering för SMB (hantverkare + servicebranscher) | Generisk review-plattform för alla företag | Svensk review-plattform, främst e-handel   | Digital marknadsföring inkl. reputation management | Bred CX/konsulting, ej ren review-SaaS         |
+| **Automatisering**             | Full: SMS-insamling, smart routing, AI-svar, Reputation Score™ | Manuell/automation via invites, widgets    | Grundläggande insamling                    | Delvis (som del av marketing)              | Begränsad eller konsultbaserad                 |
+| **Prissättning**               | 195–695 kr/mån (SMB-vänlig, ingen bindning) | Högre (enterprise-fokus, ofta 1000+ kr/mån)| Liknande SMB-priser                        | Konsult/pris per projekt                   | Högre (enterprise/konsult)                     |
+| **Teknik**                     | Proprietär, fullt byggd internt (WordPress/Supabase/Claude AI) | Egen plattform                             | Egen                                       | Tredjeparts + egen                         | Blandat                                        |
+| **Marknadsstorlek/Traction**   | Tidig (3+ kunder, bevisad ROI)              | Stor (global, miljoner reviews)            | Medel (svensk marknad)                     | Medel (Nordic marketing)                   | Stor (breda bolag)                             |
+| **Styrkor för SMB**            | Låg CAC, lokal fokus, GDPR/Sverige-data     | Stark varumärkeskännedom                   | Svensk språk/support                       | Full-service marketing                     | Skalbarhet för större                          |
+| **Svagheter vs. Reputera**     | -                                           | Dyrare, mindre nischad mot lokala SMB      | Mindre automatisering                      | Inte ren review-fokus                      | Inte SMB-optimerad                             |
+| **Reputeras fördel**           | Billigare, mer automatiserad, proprietär AI, fokus på Google-synlighet för lokala företag | -                                          | -                                          | -                                          | -                                              |
+
+#### Varför Reputera sticker ut i Norden
+- **Låg direkt konkurrens** → De flesta nordiska SaaS-bolag (t.ex. Visma, Fortnox) fokuserar på accounting/ERP, inte recensionshantering. Review-verktyg är ofta globala (Yotpo, Bazaarvoice) eller konsultdrivna.
+- **Nischfördel** → Reputera är skräddarsydd för svenska/skaninaviska småföretag som drabbas hårt av dåliga Google-recensioner – ingen annan erbjuder samma kombination av SMS (lokal provider), smart routing och AI-svar till detta pris.
+- **Skalbarhet** → Fullt internbyggd teknik ger lägre kostnader och snabbare innovation jämfört med tredjeparts-beroende konkurrenter.
+- **Marknadspotential** → Med ~200k mål-SMB i Sverige och ~350k i Skandinavien är det en outnyttjad nisch – globala aktörer som Trustpilot är för generiska och dyra för lokala hantverkare/kliniker.
+
+Reputera har en stark position för att bli **Skandinaviens ledande AI-drivna recensionsplattform för småföretag**. Genom att hålla priserna låga, automatiseringen hög och fokuset lokalt kan ni ta marknadsandelar från både globala jättar och bredare nordiska aktörer.
+
