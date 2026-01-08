@@ -72,5 +72,8 @@ Founder & CTO, Reputera
 2. Granska [Financial Projections](/financials/projections-2024.md)
 3. Boka demo via email
 
+PRESENTATION
+https://manus.im/share/file/9df543a3-9470-43d8-b9ba-33f8b778d837
+
 ---
 *Transparent, data-driven, och redo att växa. Välkommen att utforska vår resa.*
