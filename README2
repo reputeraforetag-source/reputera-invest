@@ -1,4 +1,36 @@
 
+# 🛡️ Reputera – Investor Repository
+
+## Viktigt: Två-delad struktur
+Denna repository har en **två-delad struktur** för att separera publik information från konfidentiellt material.
+
+### 📁 Public/ - Publikt tillgängligt på GitHub
+All information i `public/` mappen är säker att dela offentligt. Den innehåller mallar, exempel och projektioner med dummy data.
+
+### 🔒 PRIVATE-DO-NOT-COMMIT/ - Konfidentiellt material
+**Denna mapp finns INTE på GitHub.** Den innehåller signerade avtal, exakta ekonomiska siffror, kunddata och annat konfidentiellt material. Den delas separat med investerare via säkra kanaler.
+
+## Struktur
+
+### Publik Information (`public/`)
+📁 public/
+├── 📊 financials/ # Finansiella projektioner och modeller
+├── 🚀 pitch/ # Pitch material och marknadsanalys
+├── 📈 progress/ # Milstolpar och framsteg
+├── 👥 team/ # Team information (inga personuppgifter)
+├── 🛡️ product/ # Produktdokumentation
+├── 🤝 legal/ # Juridiska mallar (inte signerade)
+└── ❓ faq/ # Vanliga frågor
+
+
+
+### Konfidentiell Information (Lokal mapp)
+📁 PRIVATE-DO-NOT-COMMIT/ # LOKAL MAPP - INTE PÅ GITHUB
+├── 🔒 confidential/ # Signerade avtal, kapitaltabell, etc.
+├── 📁 customer-data/ # Kunddata (aldrig publicera)
+└── 🔄 work-in-progress/ # Interna utkast och anteckningar
+
+
 ## För Investerare
 
 ### Steg 1: Granska Publikt Material
@@ -41,26 +73,14 @@ För tillgång till konfidentiella dokument:
 - Kundexempel använder anonymiserad data
 - API endpoints och systemarkitektur är hög-nivå
 
-### För Privata Dokument:
-- Krypterad lagring
-- Vattenstämpel för spårbarhet
-- Tidsbegränsad access
-- IP-begränsningar
-- Aktivitetsspårning
 
-## Nästa steg för investerare
+---
 
-### Om du är intresserad:
-1. **Utforska publikt:** github.com/[användarnamn]/reputera-invest
-2. **Begär demo:** pierre@reputera.se
-3. **Signera NDA:** För tillgång till konfidentiella dokument
-4. **Due diligence:** Fullständig granskning via säkra kanaler
-5. **Term sheet:** Förhandling och investering
 
 ### Kontakt för investerare:
 **Pierre Camilo**  
 Founder & CEO, Reputera  
-pierre,camilo@reputera.se  
+pierre.camilo@reputera.se  
 
 
 **Investerarrelationer:** investera@reputera.se
