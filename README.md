@@ -4,6 +4,8 @@
 
 Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager driven av AI
 
+OBS! Delar av dokumänten är på engelska för utlänska intressenter
+
 ## 🚀 Snabbfakta
 - **Söker:** 6M SEK i seed-rundan
 - **Värdering:** [Förhandlingsbart] MSEK (pre-money)
