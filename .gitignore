@@ -54,7 +54,7 @@ desktop.ini
 
 # Publikt innehåll - ska INTE ignoreras
 !public/
-public/**/*
+!public/**/*
 
 ######################################################################
 # SPECIFIKA UNDANTAG INOM PUBLIC/
