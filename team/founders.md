@@ -1,159 +1,215 @@
-Founder Team
-Pierre (Rongert) Camilo
-Founder & Chief Technology Officer
+# **Founder Team**
 
-🟢 Professional Background
-AI-Native Product Builder & Revenue-First Founder
+## **Pierre (Rongert) Camilo**
+### Founder & Chief Technology Officer
 
-Core Identity:
+---
+
+## **🟢 Professional Background**
+**AI-Native Product Builder & Revenue-First Founder**
+
+**Core Identity:**
 I build revenue-generating systems using AI as my primary development tool. My background combines sales execution with AI-first product development—focusing on solving real business problems, not just writing code.
 
-Entrepreneurial Journey:
+**Entrepreneurial Journey:**
 
-Period	Role	Key Achievement
-2024–Present	Founder @ Reputera	Built complete AI-driven SaaS platform solo for Swedish SMBs
-2023–Present	Founder @ StudioShare	Created platform for renting music/podcast studios
-2021–2024	Business Dev Manager @ Order Tiger	Led sales teams, exceeded targets in B2B environment
-2020–2024	Founder @ Ramsteen & Crest Consulting	Business consulting with growth strategy focus
-2007–2019	Creative & Event Roles	Music curation, fashion editing, event management
+| Period | Role | Key Achievement |
+|--------|------|-----------------|
+| **2024–Present** | Founder @ **Reputera** | Built complete AI-driven SaaS platform solo for Swedish SMBs |
+| **2023–Present** | Founder @ **StudioShare** | Created platform for renting music/podcast studios |
+| **2021–2024** | Business Dev Manager @ **Order Tiger** | Led sales teams, exceeded targets in B2B environment |
+| **2020–2024** | Founder @ **Ramsteen & Crest Consulting** | Business consulting with growth strategy focus |
+| **2007–2019** | Creative & Event Roles | Music curation, fashion editing, event management |
 
-🟢 Why I'm Building Reputera
-"I've spent years in sales and customer-facing roles. I've seen Swedish small businesses lose customers because of silent satisfaction and vocal dissatisfaction. Reputera isn't just a tech project—it's solving a revenue problem I understand firsthand."
+---
 
-The Problem I Lived:
+## **🟢 Why I'm Building Reputera**
+> "I've spent years in sales and customer-facing roles. I've seen Swedish small businesses lose customers because of silent satisfaction and vocal dissatisfaction. Reputera isn't just a tech project—it's solving a revenue problem I understand firsthand."
 
-Happy customers don't speak up
+**The Problem I Lived:**
+- Happy customers don't speak up
+- Unhappy customers damage businesses
+- Small business owners are experts in their craft, not digital marketing
 
-Unhappy customers damage businesses
+**My Solution Approach:**
+Combine **sales mindset + AI tools** to create systems that:
+1. Automate what businesses hate doing
+2. Generate measurable revenue impact
+3. Are built specifically for the Swedish market
 
-Small business owners are experts in their craft, not digital marketing
+---
 
-My Solution Approach:
-Combine sales mindset + AI tools to create systems that:
+## **🟢 Technical Expertise**
+### **AI-First Development Stack**
+My approach is building with modern AI tools, not traditional coding:
 
-Automate what businesses hate doing
+#### **🏗️ Production Stack (What I Actually Use)**
+- **Frontend:** WordPress 6.x + Custom PHP plugins + Bootstrap 5
+- **Backend:** Supabase (PostgreSQL 15) + Edge Functions (TypeScript)
+- **AI Orchestration:** Claude API + DeepSeek API (intelligent routing)
+- **Communication:** 46elks (Swedish SMS) + Custom email providers
+- **Database:** Row-Level Security (RLS) for multi-tenant isolation
+- **DevOps:** Environment-based configuration + Cost tracking per tenant
 
-Generate measurable revenue impact
+#### **🔧 Real Skills (Not Buzzwords)**
+- **AI-Prompt Engineering:** Building production systems with AI tools as primary development environment
+- **Full-Stack System Design:** From customer interaction to database to AI response - complete workflows
+- **API Integration & Automation:** Connecting multiple services into seamless customer experiences
+- **GDPR-Compliant Architecture:** Built data protection into system design from day one
+- **SMB-Focused UX:** Creating interfaces simple enough for craftsmen to use effectively
 
-Are built specifically for the Swedish market
+---
 
-🟢 Technical Philosophy
-Development Methodology
-yaml
-approach: "AI-First, Not Code-First"
-tools: ["Prompt Engineering", "Claude Code CLI", "Rapid Prototyping"]
-focus: "Solve Customer Problems → Measure Results → Iterate"
-Tech Stack (Real, Production)
-Layer	Technology	Why This Choice
-Frontend	WordPress 6.x + Custom PHP	Fast iteration, familiar for users
-Backend	Supabase (PostgreSQL)	Real-time, secure, multi-tenant ready
-AI Layer	Claude API + DeepSeek API	Optimal responses, cost-effective
-Communications	46elks (SMS)	Swedish provider, high deliverability
-DevOps	Environment-based config	Full control, cost tracking per customer
-Core Principles
-Transparency First: Everything documented publicly
+## **🟢 Founder Philosophy**
 
-Sweden-First Design: Local providers, SEK pricing, GDPR by default
+### **🎯 Product Principles**
+- **Solve visible pain:** Don't guess what customers need—listen to what they complain about
+- **Revenue over vanity:** Every feature must connect to customer acquisition, retention, or expansion
+- **Start Swedish, think Swedish:** Build for the Swedish market first, with Swedish providers and SEK pricing
+- **Transparency as feature:** Open build logs, clear pricing, no hidden costs
 
-Revenue-Obsessed: Every feature ties to business outcomes
+### **👥 How I Lead**
+- **Hands-on building:** I don't manage from PowerPoint—I'm in the code, talking to customers, sending the invoices
+- **Metric-driven decisions:** If we can't measure it, we shouldn't build it
+- **Customer-obsessed development:** Weekly check-ins with real users, not annual surveys
+- **Resourceful execution:** Bootstrap first, spend only when it directly generates revenue
 
-Build → Measure → Learn: Rapid iterations based on real data
+### **🚀 Growth Mindset**
+- **Learn publicly:** My mistakes are documented in GitHub for others to learn from
+- **Speed beats perfection:** Launch, measure, iterate—not plan for years
+- **Sustainable scaling:** Grow at the pace our customers need, not VC pressure
+- **Balance pragmatism with vision:** Fix today's problems while building for tomorrow
 
-🟢 Track Record with Reputera
-Solo Development Achievements
-✅ Built complete MVP in 4 months (part-time)
-✅ Integrated 5 different APIs (Claude, DeepSeek, 46elks, etc.)
-✅ Implemented Smart Routing™ – proprietary AI logic
-✅ 3 paying customers with proven results
-✅ Documented entire process in public GitHub repository
+---
 
-Customer Results (Real Data)
-text
-Client: Swedish Construction Company
-├── Before: 3.8 stars, 12 reviews
-├── After (3 months): 4.4 stars, 61 reviews (+49!)
-└── Revenue Impact: +120,000 SEK attributed to better reviews
-🟢 Founder Mindset
-What Drives Me
-Solve Real Problems: Build what customers need, not what's technically interesting
+## **🟢 Track Record & Achievements**
 
-Speed Over Perfection: Launch fast, learn faster
+### **🚀 What I've Actually Built with Reputera**
+#### **Solo Development Reality:**
+- **Built MVP in 4 months** while consulting part-time
+- **Integrated 5+ APIs** not because it was easy, but because customers needed them
+- **Created Smart Routing™** by experimenting with different AI models until it worked
+- **Designed the entire system** from database schema to customer onboarding
+- **Acquired first 3 paying customers** through direct outreach and solving their specific pain points
 
-Customer Obsession: Talk to users weekly, build what they ask for
+#### **Real Customer Results:**
+```text
+Client: Stockholm Construction Company
+├── Starting point: 3.8 stars, 12 Google reviews
+├── After 3 months: 4.4 stars, 61 reviews (+49!)
+├── Their feedback: "This finally made review management manageable"
+└── Business impact: +120,000 SEK in new business they attribute to better ratings
+```
 
-Financial Discipline: Bootstrap first, spend on what matters
+### **💰 Personal Investment**
+- **12+ months of savings** invested in development and living expenses
+- **100% equity ownership** (bootstrapped to date)
+- **Zero salary taken** during development—reinvesting all revenue
+- **Full-time commitment** since January 2024 with 60-70 hour weeks
+- **Long-term mindset** building a sustainable business, not chasing quick exits
 
-Investment Philosophy
-markdown
-Personal Investment:
-- 12+ months of personal savings invested
-- 100% equity ownership (pre-investment)
-- No salary during development phase
-- Reinvesting all early revenue
-Leadership Style
-Hands-On Building: I code, design, sell, and support
+---
 
-Data-Driven Decisions: Metrics over opinions
+## **🟢 Advisory & Support Network**
+### **🤝 Realistic Advisory Targets**
+- **Swedish SMB expert:** Someone who's actually run a small service business in Sweden
+- **SaaS operator:** Who's scaled a B2B SaaS from 10 to 100+ customers
+- **AI pragmatist:** Who understands production AI, not just research papers
+- **Local legal counsel:** For Swedish business law and GDPR compliance
 
-Radical Transparency: Open KPIs, open challenges
+### **👥 Current Mentors & Supporters**
+- **Former business owners** who understand the SMB struggle
+- **Revenue operations experts** from my consulting network
+- **Other bootstrapped founders** sharing practical growth tactics
+- **Early customers** who believe in what we're building
 
-Long-Term Commitment: Building a category leader, not a quick flip
+---
 
-🟢 Why This Background is an Advantage
-Combined Strengths
-text
-Sales DNA + AI Development = Unique Founder Fit
-├── Understands customer pain points (sales background)
-├── Knows how to close deals (revenue focus)
-├── Can build solutions rapidly (AI-native development)
-└── Focuses on business outcomes, not technical vanity
-Differentiation from Traditional Tech Founders
-Aspect	Traditional Tech Founder	My Approach
-Development	Write all code manually	Use AI as primary tool
-Customer Focus	Often secondary	Primary driver
-Speed to Market	Slower, more polished	Faster, iterate in production
-Business Model	Build first, monetize later	Revenue from day one
-Risk Tolerance	Lower (perfectionism)	Higher (learn from failures)
-🟢 Looking Ahead
-Team Building Philosophy
-First hires: Growth marketer, customer success
+## **🟢 Why Invest in This Founder?**
 
-Culture: Action-oriented, metric-driven, customer-obsessed
+### **1. Unique Perspective**
+✅ **Sales-to-build pipeline:** I understand what sells before I build it  
+✅ **Swedish market immersion:** Born and built here, understanding local business culture  
+✅ **AI-native approach:** Using modern tools effectively, not just talking about them  
+✅ **Bootstrapper mentality:** Every krona spent must generate returns
 
-Advisors to recruit: SaaS scaling experts, Swedish market specialists
+### **2. Execution Track Record**
+✅ **Built → Launched → Sold:** Complete cycle with early customers  
+✅ **Customer acquisition:** First revenue through direct outreach, proving demand  
+✅ **Technical delivery:** Complete platform built solo, documented transparently  
+✅ **Problem-solving:** Turned customer complaints into product improvements
 
-Exit Mindset
-Building for long-term value creation, not quick exit. Potential paths:
+### **3. Market Understanding**
+✅ **Lived the problem:** Worked directly with SMBs throughout my career  
+✅ **Swedish specifics:** GDPR, payment preferences, business culture nuances  
+✅ **Digital divide:** Understanding between tech-savvy and traditional businesses  
+✅ **Revenue focus:** Building features customers pay for, not just like
 
-Strategic acquisition by Swedish tech company
+### **4. Leadership Reality**
+✅ **Solo operator to team builder:** Ready to transition with investment  
+✅ **Transparent communication:** Regular updates, clear metrics, honest challenges  
+✅ **Resource allocation:** Experience prioritizing limited resources for maximum impact  
+✅ **Long-term vision with short-term execution:** Balancing today's needs with tomorrow's goals
 
-Private equity in 5-7 years
+---
 
-IPO if scale justifies it
+## **🟢 My Role Post-Investment**
 
-Sustainable profitable business as primary goal
+### **Immediate Focus (Months 1-3)**
+```text
+Primary Role: Builder-in-Chief
+├── Platform scaling & reliability
+├── Hire first technical team member
+├── Customer onboarding systemization
+└── Feature prioritization based on revenue impact
+```
 
-🟢 Connect & Verify
-Transparency Links:
+### **Evolving Role (Months 4-12)**
+```text
+Transition to: Product & Growth Leader
+├── Build out customer success function
+├── Establish data-driven decision culture
+├── Develop partnership strategy
+└── Prepare for next funding round if needed
+```
 
-GitHub Build Log: github.com/yourusername/reputera-build
+---
 
-Live Platform: reputera.se
+## **🟢 Personal Motivation**
+### **❤️ Why This Matters to Me**
+"My journey hasn't been traditional tech—it's been sales, consulting, creative work, and seeing businesses struggle. I've sat with workshop owners watching their phones not ring because of one bad review. I've seen amazing craftsmen lose contracts to inferior competitors with better Google ratings. This isn't abstract—it's people's livelihoods."
 
-LinkedIn: /in/yourprofile
+### **🎯 What Success Looks Like**
+"Success isn't a billion-dollar exit. It's seeing Swedish craftsmen, clinics, and small businesses thrive because they control their online reputation. It's building a sustainable company that employs people here in Stockholm. It's creating tools that actually help, not just look impressive on a tech blog."
 
-Email: pierre@reputera.se
+### **⚡ Why Now**
+"The tools exist, the market needs it, and the timing is perfect. Swedish businesses are digitally ready but underserved. AI makes complex automation affordable. I have the right combination of customer understanding and technical ability to make this work. And I'm willing to put in the years to build it right."
 
-Due Diligence Welcome:
+---
 
-Full access to GitHub repository
+## **🟢 Contact & Transparency**
 
-Customer references available
+### **📞 Direct Access**
+- **Email:** pierre@reputera.se
+- **LinkedIn:** linkedin.com/in/pierrecamilo
+- **GitHub:** github.com/reputera-invest (public build log)
+- **Location:** Stockholm, Sweden
+- **Availability:** Full-time, dedicated to Reputera
 
-Financial projections open for review
+### **🔍 Due Diligence Welcome**
+- **Full GitHub access** with commit history and build documentation
+- **Customer references** from our first paying clients
+- **Financial transparency** on burn rate and unit economics
+- **Regular investor updates** with honest progress and challenges
 
-Regular update meetings post-investment
+### **👥 Real References (Available)**
+- **Early customers** who can speak to product impact
+- **Business mentors** from my consulting network
+- **Collaborators** from previous projects
+- **Technical peers** who've reviewed the codebase
 
-*"I don't have a traditional CS degree or 15 years of coding experience. What I have is something more valuable for this venture: 15+ years of understanding customers, combined with the ability to build revenue-generating systems using the most modern tools available. That's what Reputera needs right now."*
+---
+
+> "I don't have a traditional CS degree or 15 years of coding experience. What I have is something more valuable for this venture: 15+ years of understanding customers, combined with the ability to build revenue-generating systems using the most modern tools available. That's what Reputera needs right now."
 
 *Document version: 1.0 • Last updated: 2024-01-08*
