@@ -1,0 +1,78 @@
+
+## För Investerare
+
+### Steg 1: Granska Publikt Material
+1. Utforska `public/` mappen på GitHub
+2. Läs `public/pitch/executive-summary.md` för översikt
+3. Granska `public/financials/projections-2024.md`
+4. Titta på `public/product/competitive-advantage.md`
+
+### Steg 2: Begär Konfidentiellt Material
+För tillgång till konfidentiella dokument:
+1. Kontakta Pierre Camilo (pierre@reputera.se)
+2. Signera sekretessavtal (NDA)
+3. Ta emot säker länk till privata dokument
+4. Granska i den säkra miljön
+
+### Steg 3: Due Diligence Process
+1. **Fas 1:** GitHub repository (publikt)
+2. **Fas 2:** Säker dokumentdelning (konfidentiellt)
+3. **Fas 3:** Live demo och Q&A
+4. **Fas 4:** Term sheet förhandling
+
+## Dokumentstatus
+
+| **Dokumenttyp** | **Status** | **Plats** | **Access** |
+|-----------------|------------|-----------|------------|
+| Finansiella projektioner | Publik | `public/financials/` | Öppen |
+| Kapitaltabell (exakt) | Konfidentiell | Privat mapp | NDA krävs |
+| Pitch deck (template) | Publik | `public/pitch/` | Öppen |
+| Signerade avtal | Konfidentiell | Privat mapp | Begränsad |
+| Produkt roadmap | Publik | `public/product/` | Öppen |
+| Kundcase (anonymiserade) | Publik | `public/pitch/` | Öppen |
+| Kunddata (full) | Konfidentiell | Privat mapp | Strikt |
+| Team CV:n | Anonymiserade | `public/team/` | Öppen |
+
+## Säkerhetsåtgärder
+
+### För Publika Dokument:
+- All PII (Personally Identifiable Information) är redigerad
+- Finansiella siffror är projektioner, inte faktiska
+- Kundexempel använder anonymiserad data
+- API endpoints och systemarkitektur är hög-nivå
+
+### För Privata Dokument:
+- Krypterad lagring
+- Vattenstämpel för spårbarhet
+- Tidsbegränsad access
+- IP-begränsningar
+- Aktivitetsspårning
+
+## Nästa steg för investerare
+
+### Om du är intresserad:
+1. **Utforska publikt:** github.com/[användarnamn]/reputera-invest
+2. **Begär demo:** pierre@reputera.se
+3. **Signera NDA:** För tillgång till konfidentiella dokument
+4. **Due diligence:** Fullständig granskning via säkra kanaler
+5. **Term sheet:** Förhandling och investering
+
+### Kontakt för investerare:
+**Pierre Camilo**  
+Founder & CEO, Reputera  
+pierre,camilo@reputera.se  
+
+
+**Investerarrelationer:** investera@reputera.se
+
+## Transparens och Tillgänglighet
+
+Vi tror på transparens med rätt skydd. Därför:
+- **Öppenhet:** Delar så mycket som möjligt offentligt
+- **Säkerhet:** Skyddar känslig information strikt
+- **Tillgänglighet:** Gör det enkelt för investerare att förstå affären
+- **Professionell:** Håller hög standard på all dokumentation
+
+---
+
+*Transparent, säker och investerarvänlig. Välkommen till Reputera.*
