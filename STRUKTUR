@@ -1,0 +1,33 @@
+📁 reputera-invest/
+├── 📄 README.md
+│   (Välkomstmeddelande för investerare)
+├── 📁 📊 financials/
+│   ├── 📄 projections-2024.md
+│   ├── 📄 use-of-funds.md
+│   ├── 📄 revenue-model.md
+│   └── 📄 cap-table.md (kan vara privat)
+├── 📁 🚀 pitch/
+│   ├── 📄 pitch-deck.pdf
+│   ├── 📄 executive-summary.md
+│   ├── 📄 problem-solution.md
+│   └── 📄 market-analysis.md
+├── 📁 📈 progress/
+│   ├── 📄 milestones.md
+│   ├── 📄 metrics-dashboard.md
+│   └── 📄 quarterly-updates/
+├── 📁 👥 team/
+│   ├── 📄 founders.md
+│   ├── 📄 advisors.md
+│   └── 📄 open-positions.md
+├── 📁 🛡️ product/
+│   ├── 📄 reputation-platform.md
+│   ├── 📄 roadmap.md
+│   ├── 📄 competitive-advantage.md
+│   └── 📄 screenshots/
+├── 📁 🤝 legal/
+│   ├── 📄 term-sheet-template.md
+│   └── 📄 data-privacy.md
+└── 📁 ❓ faq/
+    ├── 📄 general.md
+    ├── 📄 investment-terms.md
+    └── 📄 exit-strategy.md
