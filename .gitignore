@@ -1,0 +1,235 @@
+# Reputera Investor Repository - Git Ignore File
+# Last updated: March 2024
+
+######################################################################
+# KÄNSLIG DATA - ALDRIG COMMITTA DETTA!
+######################################################################
+
+# Financials - Känsliga ekonomidokument
+financials/cap-table.md              # Kapitaltabell med ägarandelar
+financials/*-confidential.md         # Alla konfidentiella ekonomidokument
+financials/customer-pii/             # Kunddata med personuppgifter
+financials/tax-documents/            # Skattedokument
+financials/personal-investor-info/   # Info om privata investerare
+
+# Legal - Konfidentiella juridiska dokument
+legal/term-sheet-signed.pdf          # Signerade term sheets
+legal/shareholder-agreement-signed.pdf  # Signerade aktieägaravtal
+legal/advisor-agreements/            # Advisor agreements med personuppgifter
+legal/due-diligence-private/         # Privat due diligence material
+legal/employee-contracts/            # Anställningsavtal
+
+# Pitch - Konfidentiella pitch-dokument
+pitch/pitch-deck-confidential.pdf    # Fullständiga pitch deck med detaljer
+pitch/investor-presentation-private/ # Privata presentationer
+pitch/competitor-analysis-private.md # Detaljerad konkurrentanalys
+
+# Team - Personuppgifter
+team/employee-contracts/             # Anställningsavtal
+team/advisor-agreements-private/     # Privata advisor avtal
+team/personal-emails.txt             # Personliga email-adresser
+team/salary-information.md           # Löneinformation
+
+# Customer Data - Aldrig committa!
+customer-data/                       # All kunddata
+*.csv                                # Excel/CSV filer med kunddata
+customer-pii/                        # Personuppgifter från kunder
+customer-contracts/                  # Kundkontrakt
+
+######################################################################
+# TEKNISKA FILER
+######################################################################
+
+# IDE och editor filer
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Operativsystem
+*.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Backups och temporära filer
+*.bak
+*.tmp
+*.temp
+*~
+*.old
+*.orig
+*.save
+
+# Dokument
+*.pdf                              # Stora PDF:er (använd länkar istället)
+*.docx
+*.xlsx
+*.pptx
+*.pages
+*.numbers
+*.key
+
+# Bilder och media (för stora för repo)
+*.psd
+*.ai
+*.indd
+*.mov
+*.mp4
+*.wav
+*.mp3
+
+######################################################################
+# KONFIGURATION FÖR SPECIFIKA VERKTYG
+######################################################################
+
+# WordPress (om vi har det i repo)
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Docker
+.env
+docker-compose.override.yml
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+######################################################################
+# REPUTERA-SPECIFIKT
+######################################################################
+
+# Temporära investerardokument
+_investor-drafts/                    # Utkast till investerardokument
+_tmp/                                # Temporär mapp
+_archive/                            Arkiverade gamla versioner
+
+# API Keys och konfiguration
+config/keys/                         # API nycklar
+*.env                                # Miljövariabler
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Säkerhetsfiler
+security-audits/                     # Säkerhetsgranskningar
+pentest-reports/                     # Penetrationstest rapporter
+backups/                             # Databas-backups
+
+# Stora filer (>10MB)
+large-files/                         # Dokumentera stora filer separat
+
+# Externa länkar (använd istället)
+external-attachments/                # Stora bilagor, länka istället
+
+######################################################################
+# UNDANTAG - VAD SOM SKA INKLUDERAS
+######################################################################
+
+# INTE ignorera dessa (de ska finnas med):
+!README.md
+!financials/projections-2024.md
+!financials/use-of-funds.md
+!financials/revenue-model.md
+!pitch/executive-summary.md
+!pitch/problem-solution.md
+!pitch/market-analysis.md
+!progress/milestones.md
+!progress/metrics-dashboard.md
+!team/founders.md
+!team/advisors.md
+!team/open-positions.md
+!product/reputation-platform.md
+!product/roadmap.md
+!product/competitive-advantage.md
+!legal/term-sheet-template.md
+!legal/data-privacy.md
+!faq/general.md
+!faq/investment-terms.md
+!faq/exit-strategy.md
+
+# Screenshots - endast publika/demo bilder
+screenshots/dashboard/demo-*.png
+screenshots/features/demo-*.png
+screenshots/onboarding/demo-*.png
+
+######################################################################
+# REGLER FÖR VAD SOM FÅR/FÅR INTE COMMITTAS
+######################################################################
+
+# FÅR committas:
+# - Mallar och exempel (template.md)
+# - Publik information
+# - Redigerade/dummy-data exempel
+# - Struktur och mappar
+# - Offentliga screenshots (med dummy data)
+
+# FÅR INTE committas:
+# - Personuppgifter (email, telefon, adress)
+# - Lösenord eller API keys
+# - Signerade avtal
+# - Exakt kunddata
+# - Interna konversationer
+# - Konfidentiella förhandlingsdokument
+# - Exakta ekonomiska siffror (förutom projektioner)
+
+######################################################################
+# COMMIT POLICY FÖR INVESTOR REPO
+######################################################################
+
+# 1. Alltid använda dummy data i exempel
+# 2. Aldrig inkludera riktiga kontaktuppgifter
+# 3. Använd [REDACTED] för konfidentiell info
+# 4. Separera publik info från intern info
+# 5. Regular security review av commits
+
+######################################################################
+# BACKUP POLICY
+######################################################################
+
+# Konfidentiella dokument ska:
+# 1. Finnas i separat, krypterat repo
+# 2. Hanteras via secure file transfer
+# 3. Aldrig pushas till GitHub
+# 4. Backupas lokalt med encryption
