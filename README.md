@@ -1,9 +1,7 @@
-# reputera-invest
-Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager driven av AI
-
 # 🛡️ Reputera – Investor Hub
 
 **AI-drivet Reputationsmanagement för Småföretag**
+Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager driven av AI
 
 ## 🚀 Snabbfakta
 - **Söker:** 6M SEK i seed-rundan
