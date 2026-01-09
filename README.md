@@ -1,6 +1,6 @@
 # 🛡️ Reputera – Investor Hub
 
-**AI-drivet Reputationsmanagement för Småföretag**
+**AI-drivet Recensionshantering/management för Småföretag**
 
 Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager driven av AI
 
