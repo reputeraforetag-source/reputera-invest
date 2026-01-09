@@ -1,7 +1,7 @@
 # Revenue Model – Reputera
 
 ## Översikt
-Reputera använder en SaaS-subscription modell med tiered pricing och hög-margin add-ons. Modellen är designad för hög LTV och låg churn.
+Reputera använder en SaaS-abbonemangs-modell med tiered pricing och hög-margin add-ons. Modellen är designad för hög LTV och låg churn.
 
 ## Subscription Tiers
 
