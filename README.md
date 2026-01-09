@@ -7,7 +7,7 @@ Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager dr
 OBS! Delar av dokumänten är på engelska för utlänska intressenter
 
 ## 🚀 Snabbfakta
-- **Söker:** 6M SEK i seed-rundan
+- **Söker:** 2.5-5m SEK i seed-rundan
 - **Värdering:** [Förhandlingsbart] MSEK (pre-money)
 - **Milstolpe:** Bli Skandinaviens största AI-plattform för recensionshantering
 - **Traction:** 3 betalande kunder med bevisade resultat
