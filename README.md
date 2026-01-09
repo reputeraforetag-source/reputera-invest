@@ -77,3 +77,8 @@ https://manus.im/share/file/9df543a3-9470-43d8-b9ba-33f8b778d837
 
 ---
 *Transparent, data-driven, och redo att växa. Välkommen att utforska vår resa.*
+
+## Förbehåll
+
+Alla siffror och prognoser är baserade på nuvarande antaganden och kan komma att justeras.  
+Vi uppdaterar materialet kontinuerligt i takt med ny data och faktisk utveckling.
