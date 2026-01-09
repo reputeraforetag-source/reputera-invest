@@ -19,7 +19,7 @@ text
 
 text
 
-## Completed (Q4 2023 - Q1 2024)
+## Completed (Q4 2024 - Q1 2025)
 
 ### MVP 1.0 – Foundation Release
 ✅ Core Platform
@@ -44,10 +44,10 @@ text
 
 text
 
-## Current Development (Q2 2024)
+## Current Development (Q2 2025)
 
 ### Version 1.1 – Polish & Optimization
-🔄 In Development (April-June 2024)
+🔄 In Development (April-June 2025)
 • Admin Dashboard Improvements
 
 Mobile-responsive design
@@ -81,7 +81,7 @@ Customer feedback system
 text
 
 ### Version 1.2 – Add-ons Launch
-🎯 Target: July 2024
+🎯 Target: Dec 2025
 • Add-on Marketplace
 
 Extra user seats (+149 kr/mån per user)
