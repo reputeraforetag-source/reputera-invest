@@ -7,7 +7,7 @@ Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager dr
 OBS! Delar av dokumänten är på engelska för utlänska intressenter
 
 ## 🚀 Snabbfakta
-- **Söker:** 2.5-5M SEK i seed-rundan
+- **Söker:** 6M SEK i seed-rundan
 - **Värdering:** [Förhandlingsbart] MSEK (pre-money)
 - **Milstolpe:** Bli Skandinaviens största AI-plattform för recensionshantering
 - **Traction:** 3 betalande kunder med bevisade resultat
@@ -17,14 +17,14 @@ OBS! Delar av dokumänten är på engelska för utlänska intressenter
 ## 📊 Nyckeltal
 - **ARPU Mål:** 4,800 SEK/år
 - **CAC:** ~500 SEK (testade kanaler)
-- **Break-even:** 6 månader
-- **År 3 ARR:** 24M SEK
-- **Exit Valuation (År 5):** 120M SEK (5x multiple)
+- **Break-even:** 6 månader (post-investment Q1 2026)
+- **År 3 ARR (2028):** 24M SEK
+- **Exit Valuation (År 5, 2031):** 200M SEK (5x ARR multiple)
 
 ## 📁 Dokumentstruktur
 
 ### 📊 Financials
-- [Financial Projections](/financials/projections-2024.md)
+- [Financial Projections](/financials/projections-2025.md)
 - [Användning av Kapital](/financials/use-of-funds.md)
 - [Revenue Model](/financials/revenue-model.md)
 
@@ -69,7 +69,7 @@ Founder & CTO, Reputera
 
 **Nästa steg:**
 1. Läs [Executive Summary](/pitch/executive-summary.md)
-2. Granska [Financial Projections](/financials/projections-2024.md)
+2. Granska [Financial Projections](/financials/projections-2025.md)
 3. Boka demo via email
 
 PRESENTATION

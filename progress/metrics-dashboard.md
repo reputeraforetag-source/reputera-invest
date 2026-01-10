@@ -3,7 +3,7 @@
 ## Executive Summary Dashboard
 
 ### Monthly Snapshot
-📅 Period: March 2024
+📅 Period: December 2025
 💰 MRR: 15,000 SEK
 👥 Customers: 3 (paying)
 📈 Growth Rate: 100% MoM (from 1 to 3 customers)
@@ -17,7 +17,7 @@ text
 ### Customer Metrics
 | **Metric** | **Current** | **Target** | **Trend** | **Notes** |
 |------------|-------------|------------|-----------|-----------|
-| **Total Customers** | 3 | 1,000 (EOY) | 📈 | All on annual plans |
+| **Total Customers** | 3 | 1,000 (EOY 2026) | 📈 | All on annual plans |
 | **New Customers (MoM)** | 2 | 83/mån (avg) | 📈 | 100% growth |
 | **Customer Churn** | 0% | <3% monthly | ➡️ | Too early to tell |
 | **Gross Revenue Churn** | 0% | <2% monthly | ➡️ | No churn yet |
@@ -73,7 +73,7 @@ text
 ## Financial Metrics
 
 ### Income Statement (Projected Annual)
-| **Line Item** | **2024 (Projected)** | **% of Revenue** | **Notes** |
+| **Line Item** | **2025 (Projected)** | **% of Revenue** | **Notes** |
 |---------------|----------------------|------------------|-----------|
 | **Revenue** | 4,800,000 SEK | 100% | 1,000 customers @ 4,800 SEK ARPU |
 | **COGS** | 900,000 SEK | 19% | AI, SMS, hosting costs |
@@ -106,9 +106,9 @@ text
 ### Market Position
 | **Metric** | **Current** | **Target** | **Notes** |
 |------------|-------------|------------|-----------|
-| **Market Share (Swedish Craftsmen)** | <0.01% | 5% (EOY 2025) | Early stage |
-| **Brand Awareness (Target Segment)** | <1% | 15% (EOY 2025) | Will measure via surveys |
-| **Google Search Position** | Page 3+ | Page 1 (EOY 2024) | SEO target |
+| **Market Share (Swedish Craftsmen)** | <0.01% | 5% (EOY 2027) | Early stage |
+| **Brand Awareness (Target Segment)** | <1% | 15% (EOY 2027) | Will measure via surveys |
+| **Google Search Position** | Page 3+ | Page 1 (EOY 2026) | SEO target |
 | **Competitive Win Rate** | 100% | >70% | Limited competition so far |
 
 ### Channel Performance
@@ -144,7 +144,7 @@ text
 ### Team Performance
 | **Metric** | **Current** | **Target** | **Notes** |
 |------------|-------------|------------|-----------|
-| **Team Size** | 1 (founder) | 4 (EOY 2024) | Post-investment hiring |
+| **Team Size** | 1 (founder) | 4 (EOY 2026) | Post-investment hiring |
 | **Revenue per Employee** | 12,000 SEK | 1.2M SEK | Early stage skew |
 | **Customer Support Capacity** | 50 customers | 200 customers/rep | Current limit |
 | **Time to Hire** | N/A | <60 days | Target for key roles |
@@ -170,7 +170,7 @@ text
 
 ## Quarterly Goals & Progress
 
-### Q1 2024 Achievements
+### Q3 2025 Achievements
 ✅ Product: MVP launched, 3 paying customers
 ✅ Tech: Full stack built, AI integrated
 ✅ Validation: Proven ROI for early customers
@@ -178,7 +178,7 @@ text
 
 text
 
-### Q2 2024 Targets
+### Q1 2026 Targets
 🎯 Growth: 10 total customers
 🎯 Revenue: 50,000 SEK MRR
 🎯 Funding: Secure 6M SEK investment
@@ -187,8 +187,8 @@ text
 
 text
 
-### Progress Tracking (Q2 2024)
-📊 Current Progress: 20% through quarter
+### Progress Tracking (Q1 2026)
+📊 Current Progress: 10% through quarter
 👥 Customers: 3/10 (30% of target)
 💰 MRR: 1,000/50,000 SEK (2% of target)
 👨‍💼 Hiring: 0/1 (0% of target)
@@ -222,4 +222,4 @@ text
 
 ---
 
-*This dashboard is updated weekly. Last updated: March 2024. All metrics are based on actual data unless otherwise noted as projections.*
+*This dashboard is updated weekly. Last updated: January 2026. All metrics are based on actual data unless otherwise noted as projections.*

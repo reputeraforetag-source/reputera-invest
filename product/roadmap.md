@@ -19,7 +19,7 @@ text
 
 text
 
-## Completed (Q4 2024 - Q1 2025)
+## Completed (Q2 2025 - Q4 2025)
 
 ### MVP 1.0 – Foundation Release
 ✅ Core Platform
@@ -44,10 +44,10 @@ text
 
 text
 
-## Current Development (Q2 2025)
+## Current Development (Q1 2026)
 
 ### Version 1.1 – Polish & Optimization
-🔄 In Development (April-June 2025)
+🔄 In Development (January-March 2026)
 • Admin Dashboard Improvements
 
 Mobile-responsive design
@@ -81,7 +81,7 @@ Customer feedback system
 text
 
 ### Version 1.2 – Add-ons Launch
-🎯 Target: Dec 2025
+🎯 Target: Q2 2026
 • Add-on Marketplace
 
 Extra user seats (+149 kr/mån per user)
@@ -112,10 +112,10 @@ Zapier integration (basic)
 
 text
 
-## Short-term Roadmap (Q3-Q4 2024)
+## Short-term Roadmap (Q2-Q3 2026)
 
 ### Version 2.0 – Mobile & Expansion
-📅 Target: September 2024
+📅 Target: Q3 2026
 
 📱 Mobile Application MVP
 • iOS/Android native apps
@@ -139,7 +139,7 @@ text
 text
 
 ### Version 2.1 – Advanced Features
-📅 Target: November 2024
+📅 Target: Q4 2026
 
 🤖 AI 2.0 – Advanced Capabilities
 • Context-aware responses
@@ -161,10 +161,10 @@ text
 
 text
 
-## Mid-term Roadmap (2025)
+## Mid-term Roadmap (2026-2027)
 
 ### Version 3.0 – Platform Expansion
-🎯 Target: Q1 2025
+🎯 Target: Q4 2026
 
 🏢 Enterprise Tier Launch
 • White-label branding
@@ -188,7 +188,7 @@ text
 text
 
 ### Version 3.1 – Intelligence Layer
-🎯 Target: Q2 2025
+🎯 Target: Q1 2027
 
 🧠 Reputation Intelligence
 • Predictive reputation alerts
@@ -211,7 +211,7 @@ text
 text
 
 ### Version 3.2 – Vertical Specialization
-🎯 Target: Q3 2025
+🎯 Target: Q2 2027
 
 🎯 Industry-Specific Solutions
 • Healthcare module (HIPAA compliance)
@@ -227,10 +227,10 @@ text
 
 text
 
-## Long-term Vision (2026+)
+## Long-term Vision (2027+)
 
 ### Version 4.0 – Trust Platform
-🎯 Target: 2026
+🎯 Target: 2027
 
 ✅ Verified Reviews System
 • Anti-fraud detection
@@ -253,7 +253,7 @@ text
 text
 
 ### Version 5.0 – Ecosystem Platform
-🎯 Target: 2027+
+🎯 Target: 2028+
 
 🔗 Open Platform
 • Third-party app ecosystem
@@ -339,7 +339,7 @@ Integration
 text
 
 ### Beta Program
-🎯 Program Launch: Q3 2024
+🎯 Program Launch: Q3 2025
 👥 Target Size: 50 customers
 🤝 Benefits for Participants:
 • Early access to new features
@@ -389,15 +389,15 @@ text
 
 ## Partner Integration Roadmap
 
-### 2024 Integrations
-🔗 Q3 2024
+### 2025 Integrations
+🔗 Q3 2025
 • Bokadirekt (booking system)
 • Google Calendar
 • Microsoft Outlook
 • Slack
 • Microsoft Teams
 
-🔗 Q4 2024
+🔗 Q4 2025
 • Zapier (1000+ app connections)
 • HubSpot (CRM)
 • Mailchimp (email marketing)
@@ -405,15 +405,15 @@ text
 
 text
 
-### 2025 Integrations
-🔗 H1 2025
+### 2026 Integrations
+🔗 H1 2026
 • Salesforce
 • Fortnox (Swedish accounting)
 • Visma (Nordic business software)
 • Shopify
 • WooCommerce
 
-🔗 H2 2025
+🔗 H2 2026
 • Industry-specific platforms
 • Payment processors
 • Analytics platforms
@@ -428,22 +428,22 @@ text
 • Focus: Craftsmen, healthcare, professional services
 • Timeline: Ongoing optimization
 
-🇳🇴 Norway (Q1 2025)
+🇳🇴 Norway (Q2 2026)
 • Localization: Norwegian language, pricing
 • Compliance: Norwegian data protection
 • Marketing: Local partnerships
 
-🇩🇰 Denmark (Q2 2025)
+🇩🇰 Denmark (Q3 2026)
 • Localization: Danish language, pricing
 • Compliance: Danish regulations
 • Marketing: Local team/partners
 
-🇫🇮 Finland (Q4 2025)
+🇫🇮 Finland (Q4 2026)
 • Localization: Finnish language, pricing
 • Compliance: Finnish regulations
 • Strategy: Partner-led initially
 
-🇩🇪 Germany (2026)
+🇩🇪 Germany (2027)
 • Localization: German language, deep compliance
 • Market: Large SME opportunity
 • Strategy: Local office establishment
@@ -456,22 +456,22 @@ text
 • High review dependency
 • Mobile workforce
 
-🏥 Phase 2 (Q4 2024): Healthcare
+🏥 Phase 2 (Q4 2025): Healthcare
 • 1,000 private clinics in Sweden
 • High trust requirements
 • Regulatory compliance needs
 
-⚖️ Phase 3 (Q1 2025): Professional Services
+⚖️ Phase 3 (Q1 2026): Professional Services
 • Lawyers, consultants, accountants
 • High-value reputation management
 • Longer sales cycles
 
-💇 Phase 4 (Q2 2025): Personal Services
+💇 Phase 4 (Q2 2026): Personal Services
 • Hair salons, beauty clinics
 • Visual/social media integration
 • Repeat customer focus
 
-🍽️ Phase 5 (Q3 2025): Hospitality
+🍽️ Phase 5 (Q3 2026): Hospitality
 • Restaurants, hotels, cafes
 • High review volume
 • Seasonality considerations
@@ -482,29 +482,29 @@ text
 
 ### Development Resource Requirements
 👨‍💻 Team Growth Plan:
-• Q3 2024: 2 developers (including founder)
-• Q4 2024: 3 developers
-• 2025: 5-6 developers
-• 2026: 8-10 developers
+• Q3 2025: 2 developers (including founder)
+• Q4 2025: 3 developers
+• 2026: 5-6 developers
+• 2027: 8-10 developers
 
 💰 Development Budget:
-• 2024: 900,000 SEK (post-investment)
-• 2025: 2,500,000 SEK
-• 2026: 4,000,000 SEK
+• 2025: 900,000 SEK (post-investment)
+• 2026: 2,500,000 SEK
+• 2027: 4,000,000 SEK
 
 text
 
 ### Technology Investment
 🖥️ Infrastructure Costs:
 • Current: 2,000 SEK/month
-• 2024 Target: 10,000 SEK/month
-• 2025 Target: 50,000 SEK/month
+• 2025 Target: 10,000 SEK/month
+• 2026 Target: 50,000 SEK/month
 • Scaling with customer growth
 
 🤖 AI Costs:
 • Current: 500 SEK/month
-• 2024 Target: 5,000 SEK/month
-• 2025 Target: 25,000 SEK/month
+• 2025 Target: 5,000 SEK/month
+• 2026 Target: 25,000 SEK/month
 • Cost per customer decreases with scale
 
 text
@@ -512,17 +512,17 @@ text
 ## Success Metrics for Roadmap
 
 ### Feature Adoption Goals
-🎯 Version 1.1 (Q2 2024)
+🎯 Version 1.1 (Q2 2026)
 • Mobile dashboard usage: >30% of customers
 • AI response approval: >90% rate
 • Customer satisfaction: >8.5/10
 
-🎯 Version 2.0 (Q4 2024)
+🎯 Version 2.0 (Q4 2026)
 • Mobile app adoption: >40% of customers
 • Add-on penetration: >20% of customers
 • Integration usage: >30% of customers
 
-🎯 Version 3.0 (2025)
+🎯 Version 3.0 (2027)
 • Enterprise customers: >100 companies
 • API usage: >50 integrations
 • Partner ecosystem: >20 partners

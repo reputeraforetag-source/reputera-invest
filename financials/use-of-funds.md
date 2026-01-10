@@ -49,15 +49,15 @@
 
 | **Projekt** | **Belopp** | **Leverans** |
 |-------------|------------|--------------|
-| **AI Optimization** | 300,000 | Q3-Q4 2024 |
+| **AI Optimization** | 300,000 | Q2-Q3 2026 |
 | - Multi-language support | 100,000 | Svenska, Norska, Danska |
 | - Response quality improvement | 100,000 | Claude 3.5 integration |
 | - Sentiment analysis v2 | 100,000 | Advanced NLP |
-| **Platform Scalability** | 300,000 | Q2-Q3 2024 |
+| **Platform Scalability** | 300,000 | Q1-Q2 2026 |
 | - API development | 150,000 | Third-party integrations |
 | - Database optimization | 100,000 | 10,000+ kunder |
 | - Monitoring/alerts v2 | 50,000 | Proactive issue detection |
-| **Mobile & UX** | 300,000 | Q4 2024 - Q1 2025 |
+| **Mobile & UX** | 300,000 | Q3 2026 - Q4 2026 |
 | - Mobile app MVP | 200,000 | iOS/Android |
 | - Dashboard redesign | 100,000 | Improved usability |
 
@@ -82,10 +82,10 @@
 | **Profitability** | 1.5M SEK | M13-M18 | Break-even sustained |
 
 ## Return on Investment Kalkyl
-**Med 6M SEK investering:**
-- **År 1:** 4.8M SEK ARR (0.8x investering)
-- **År 2:** 12.0M SEK ARR (2.0x investering)
-- **År 3:** 24.0M SEK ARR (4.0x investering)
-- **Exit (År 5):** 120M SEK värdering (20x investering)
+**Med 6M SEK investering (Q1 2026):**
+- **År 1 (2026):** 4.8M SEK ARR (0.8x investering)
+- **År 2 (2027):** 12.0M SEK ARR (2.0x investering)
+- **År 3 (2028):** 24.0M SEK ARR (4.0x investering)
+- **Exit (År 5, 2031):** 200M SEK värdering (33x investering)
 
 **Capital Efficiency:** Varje 1 SEK investering genererar 8 SEK i ARR inom 3 år.

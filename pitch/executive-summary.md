@@ -60,9 +60,9 @@ Byggd från grunden av founder Pierre Camilo:
 ## Financial Projections
 | **År** | **Kunder** | **ARR** | **EBITDA** |
 |--------|------------|---------|------------|
-| **2024** | 1,000 | 4.8M SEK | -0.5M SEK |
-| **2025** | 2,500 | 12.0M SEK | 2.4M SEK |
-| **2026** | 5,000 | 24.0M SEK | 9.6M SEK |
+| **2025** | 1,000 | 4.8M SEK | -0.5M SEK |
+| **2026** | 2,500 | 12.0M SEK | 2.4M SEK |
+| **2027** | 5,000 | 24.0M SEK | 9.6M SEK |
 
 **Break-even:** Månad 6 efter investering
 

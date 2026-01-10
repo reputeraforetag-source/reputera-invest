@@ -1,19 +1,19 @@
-# Financial Projections 2024-2026
+# Financial Projections 2025-2027
 
 ## Sammanfattning
 | **År** | **Månadskunder** | **ARR (M SEK)** | **Revenue** | **EBITDA** | **EBITDA Margin** |
 |--------|------------------|------------------|-------------|------------|-------------------|
-| **2024** | 1,000 | 4.8 | 4.8M SEK | -0.5M SEK | -10% |
-| **2025** | 2,500 | 12.0 | 12.0M SEK | 2.4M SEK | 20% |
-| **2026** | 5,000 | 24.0 | 24.0M SEK | 9.6M SEK | 40% |
+| **2025** | 1,000 | 4.8 | 4.8M SEK | -0.5M SEK | -10% |
+| **2026** | 2,500 | 12.0 | 12.0M SEK | 2.4M SEK | 20% |
+| **2027** | 5,000 | 24.0 | 24.0M SEK | 9.6M SEK | 40% |
 
 ## Detaljerade Projektioner
 
-### 2024 (Launch Year)
-- **Q1:** 100 kunder, ARR 480k SEK
-- **Q2:** 350 kunder, ARR 1.68M SEK (break-even nådd)
-- **Q3:** 700 kunder, ARR 3.36M SEK
-- **Q4:** 1,000 kunder, ARR 4.8M SEK
+### 2025 (Launch Year)
+- **Q2:** 50 kunder, ARR 240k SEK (post-founding May 2025)
+- **Q3:** 250 kunder, ARR 1.2M SEK
+- **Q4:** 600 kunder, ARR 2.88M SEK
+- **EOY:** 1,000 kunder, ARR 4.8M SEK
 
 ### Antaganden
 1. **ARPU:** 4,800 SEK/år (400 SEK/mån med add-ons)
@@ -28,7 +28,7 @@
 | **Personalkostnader** | 40% | 3 anställda från M7 |
 | **Marketing** | 25% | Performance-focused |
 | **Övrigt (Hosting, Legal)** | 10% | Minskar med skalning |
-| **EBITDA** | 10% | Från Q2 2025 |
+| **EBITDA** | 10% | Från Q2 2026 |
 
 ### Kassaflödesprognos
 **Investering: 6M SEK**
@@ -57,4 +57,4 @@
 - **Runway utan investering:** 8 månader
 - **Runway med investering:** 24+ månader
 
-*Uppdaterad: Mars 2024*
+*Uppdaterad: Januari 2026*
