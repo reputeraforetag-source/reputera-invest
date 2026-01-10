@@ -53,7 +53,7 @@ We have data export features so you can always get your data out. As part of our
 We deploy updates weekly with continuous improvements. Major feature releases happen quarterly.
 
 ### Do you have an API?
-A public API is planned for Q4 2024. Currently, we have webhook support for basic integrations.
+A public API is planned for Q2 2026. Currently, we have webhook support for basic integrations.
 
 ## Pricing & Billing
 
@@ -98,10 +98,10 @@ Yes, we offer:
 ## Integration & Compatibility
 
 ### Does Reputera work with my booking system?
-We're building integrations with popular booking systems starting with Bokadirekt (Q3 2024). Until then, you can use our SMS/email triggers manually or via calendar integration.
+We're building integrations with popular booking systems starting with Bokadirekt (Q3 2026). Until then, you can use our SMS/email triggers manually or via calendar integration.
 
 ### Can I use Reputera on mobile?
-Yes! Our dashboard is fully mobile-responsive. We're also launching native iOS/Android apps in Q4 2024.
+Yes! Our dashboard is fully mobile-responsive. We're also launching native iOS/Android apps in Q4 2026.
 
 ### Does it work with my existing website?
 Yes, Reputera works independently of your website. You can add review widgets to your site if desired.
@@ -169,13 +169,13 @@ We currently have 3 paying customers with annual contracts. Our target is 1,000 
 ## Future Plans
 
 ### What's next for Reputera?
-Short-term (2024):
+Short-term (2026):
 - Mobile app launch
 - Norwegian/Danish expansion
 - Advanced AI features
 - More integrations
 
-Long-term (2025+):
+Long-term (2027+):
 - Complete reputation intelligence platform
 - European expansion
 - Enterprise capabilities
@@ -183,9 +183,9 @@ Long-term (2025+):
 
 ### Will you expand beyond Sweden?
 Yes, our roadmap includes:
-- 2025: Norway and Denmark
-- 2026: Finland and Germany
-- 2027+: Other European markets
+- 2026: Norway and Denmark
+- 2027: Finland and Germany
+- 2028+: Other European markets
 
 ### Are you looking for partners?
 Yes! We're building partnerships with:
@@ -212,7 +212,7 @@ We're in early discussions with several Nordic angel investors and VCs. Details 
 Pre-money valuation is being negotiated with investors based on our traction, technology, and market opportunity.
 
 ### When do you expect to be profitable?
-With 6M SEK investment, we expect to reach profitability within 6 months and be sustainably profitable by Q3 2025.
+With 6M SEK investment (Q1 2026), we expect to reach profitability within 6 months and be sustainably profitable by Q3 2026.
 
 ## Contact & Sales
 
@@ -320,9 +320,9 @@ text
 
 ### What are your revenue projections?
 📈 Annual Recurring Revenue (ARR):
-• 2024: 4.8M SEK (1,000 customers)
-• 2025: 12.0M SEK (2,500 customers)
-• 2026: 24.0M SEK (5,000 customers)
+• 2025: 4.8M SEK (1,000 customers)
+• 2026: 12.0M SEK (2,500 customers)
+• 2027: 24.0M SEK (5,000 customers)
 
 text
 
@@ -424,9 +424,9 @@ text
 
 ### How will you scale the team?
 📅 Hiring Timeline:
-• Q3 2024: First 2 hires (Growth, Customer Success)
-• Q4 2024: Tech hire
-• 2025: Additional hires based on growth
+• Q2 2026: First 2 hires (Growth, Customer Success)
+• Q4 2026: Tech hire
+• 2027: Additional hires based on growth
 • Total: 4-5 employees within 12 months
 
 text
@@ -598,7 +598,7 @@ text
 text
 
 ### When do you expect to raise the next round?
-**Q4 2025** for Series A, assuming we hit our growth targets. The 6M SEK gives us 12-18 months of runway.
+**Q4 2027** for Series A, assuming we hit our growth targets. The 6M SEK gives us 12-18 months of runway.
 
 ### What's the plan for follow-on investment?
 We will give existing investors pro-rata rights to participate in future rounds to maintain their ownership.

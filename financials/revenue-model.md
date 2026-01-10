@@ -162,7 +162,7 @@ text
 
 ## Revenue Projections
 
-### År 1 (2024)
+### År 1 (2025)
 Kunder: 1,000
 ARPU: 4,800 SEK
 ARR: 4.8M SEK
@@ -171,7 +171,7 @@ Total: 5.3M SEK
 
 text
 
-### År 2 (2025)
+### År 2 (2026)
 Kunder: 2,500
 ARPU: 5,200 SEK (add-on growth)
 ARR: 13.0M SEK
@@ -180,7 +180,7 @@ Total: 15.0M SEK
 
 text
 
-### År 3 (2026)
+### År 3 (2027)
 Kunder: 5,000
 ARPU: 5,600 SEK (price optimization)
 ARR: 28.0M SEK

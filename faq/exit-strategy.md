@@ -111,9 +111,9 @@ text
 
 #### Later-Stage Investment
 📈 Pathway: Seed → Series A → Growth Equity → Potential Exit
-• Series A (2025): 20-30M SEK at 80-120M SEK valuation
-• Growth Round (2026): 50-100M SEK at 200-400M SEK valuation
-• Exit (2027+): 500M-1B SEK valuation
+• Series A (2027): 20-30M SEK at 80-120M SEK valuation
+• Growth Round (2028): 50-100M SEK at 200-400M SEK valuation
+• Exit (2029+): 500M-1B SEK valuation
 
 👥 Potential Growth Investors:
 • Northzone (Nordic VC with SaaS expertise)
@@ -180,8 +180,8 @@ text
 
 #### IPO Timeline
 📅 Realistic Timeline:
-• 2026: Begin preparation (auditors, advisors)
-• 2027: Potential listing if >100M SEK revenue
+• 2028: Begin preparation (auditors, advisors)
+• 2029: Potential listing if >100M SEK revenue
 • Would require Series B/C funding before IPO
 
 text
@@ -189,7 +189,7 @@ text
 ## Valuation Expectations
 
 ### Exit Multiple Analysis
-📊 SaaS Valuation Multiples (2024 Market):
+📊 SaaS Valuation Multiples (2025-2026 Market):
 • Early-stage SaaS: 5-10x ARR
 • Growth-stage SaaS: 8-15x ARR
 • Public SaaS companies: 6-12x ARR
@@ -286,9 +286,9 @@ text
 
 ### Dilution Projections
 📊 Expected Capitalization Timeline:
-• Seed (2024): 6M SEK, 20-30% dilution
-• Series A (2025): 20-30M SEK, 20-25% dilution
-• Growth (2026): Optional, 15-20% dilution if needed
+• Seed (2026): 6M SEK, 20-30% dilution
+• Series A (2027): 20-30M SEK, 20-25% dilution
+• Growth (2028): Optional, 15-20% dilution if needed
 • Seed investor final ownership: 10-15% at exit
 
 text
@@ -415,7 +415,7 @@ text
 
 ## Next Steps for Exit Planning
 
-### Immediate Actions (2024)
+### Immediate Actions (2026)
 📋 Foundation Building:
 
 Clean legal structure (Estonian OÜ conversion)
@@ -428,7 +428,7 @@ Build advisory board with exit experience
 
 text
 
-### Medium-term (2025)
+### Medium-term (2027)
 🎯 Value Acceleration:
 
 Achieve Swedish market leadership
@@ -441,7 +441,7 @@ Begin relationship building with potential acquirers
 
 text
 
-### Long-term (2026+)
+### Long-term (2028+)
 🚀 Exit Preparation:
 
 Engage investment bankers for preliminary valuation

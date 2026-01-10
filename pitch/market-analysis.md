@@ -7,10 +7,10 @@ The online reputation management market is experiencing explosive growth, driven
 
 ### Market Size & Growth
 🌍 Global Online Reputation Management Market
-2024: $16.7B USD
-2025: $19.3B USD (est)
-2026: $22.3B USD (est)
-CAGR 2024-2026: 15.6%
+2025: $16.7B USD
+2026: $19.3B USD (est)
+2027: $22.3B USD (est)
+CAGR 2025-2027: 15.6%
 
 📈 SaaS Segment Growth: 22% CAGR (faster than overall market)
 📍 SME Segment: Fastest growing customer segment
@@ -18,7 +18,7 @@ CAGR 2024-2026: 15.6%
 text
 
 ### Regional Breakdown
-| **Region** | **Market Size 2024** | **Growth Rate** | **Notes** |
+| **Region** | **Market Size 2025** | **Growth Rate** | **Notes** |
 |------------|----------------------|-----------------|-----------|
 | **North America** | $7.8B USD | 14% | Mature, competitive |
 | **Europe** | $5.2B USD | 18% | Accelerating digitalization |
@@ -44,7 +44,7 @@ text
 text
 
 ### Digital Maturity of Swedish SMEs
-📱 Smartphone Adoption: 98% (Statista 2024)
+📱 Smartphone Adoption: 98% (Statista 2025)
 🛒 Online Presence: 85% have website/social media
 ⭐ Review Awareness: 65% monitor reviews regularly
 💰 SaaS Spending: Average 2,500 SEK/month on digital tools
@@ -277,23 +277,23 @@ text
 ## Growth Projections
 
 ### Conservative Scenario
-2024: 1,000 customers, 4.8M SEK ARR
-2025: 2,500 customers, 12.0M SEK ARR
-2026: 4,000 customers, 19.2M SEK ARR
+2025: 1,000 customers, 4.8M SEK ARR
+2026: 2,500 customers, 12.0M SEK ARR
+2027: 4,000 customers, 19.2M SEK ARR
 
 text
 
 ### Base Scenario (Current Plan)
-2024: 1,000 customers, 4.8M SEK ARR
-2025: 2,500 customers, 12.0M SEK ARR
-2026: 5,000 customers, 24.0M SEK ARR
+2025: 1,000 customers, 4.8M SEK ARR
+2026: 2,500 customers, 12.0M SEK ARR
+2027: 5,000 customers, 24.0M SEK ARR
 
 text
 
 ### Aggressive Scenario
-2024: 1,500 customers, 7.2M SEK ARR
-2025: 4,000 customers, 19.2M SEK ARR
-2026: 8,000 customers, 38.4M SEK ARR
+2025: 1,500 customers, 7.2M SEK ARR
+2026: 4,000 customers, 19.2M SEK ARR
+2027: 8,000 customers, 38.4M SEK ARR
 
 text
 

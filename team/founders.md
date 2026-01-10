@@ -15,7 +15,7 @@ I build revenue-generating systems using AI as my primary development tool. My b
 
 | Period | Role | Key Achievement |
 |--------|------|-----------------|
-| **2024–Present** | Founder @ **Reputera** | Built complete AI-driven SaaS platform solo for Swedish SMBs |
+| **2025–Present** | Founder @ **Reputera** | Built complete AI-driven SaaS platform solo for Swedish SMBs |
 | **2023–Present** | Founder @ **StudioShare** | Created platform for renting music/podcast studios |
 | **2021–2024** | Business Dev Manager @ **Order Tiger** | Led sales teams, exceeded targets in B2B environment |
 | **2020–2024** | Founder @ **Ramsteen & Crest Consulting** | Business consulting with growth strategy focus |
@@ -86,7 +86,7 @@ My approach is building with modern AI tools, not traditional coding:
 
 ### **🚀 What I've Actually Built with Reputera**
 #### **Solo Development Reality:**
-- **Built MVP in 4 months** while consulting part-time
+- **Built MVP in 4 months** (May-August 2025) while consulting part-time
 - **Integrated 5+ APIs** not because it was easy, but because customers needed them
 - **Created Smart Routing™** by experimenting with different AI models until it worked
 - **Designed the entire system** from database schema to customer onboarding
@@ -102,10 +102,10 @@ Client: Stockholm Construction Company
 ```
 
 ### **💰 Personal Investment**
-- **12+ months of savings** invested in development and living expenses
+- **8+ months of savings** invested in development and living expenses
 - **100% equity ownership** (bootstrapped to date)
 - **Zero salary taken** during development—reinvesting all revenue
-- **Full-time commitment** since January 2024 with 60-70 hour weeks
+- **Full-time commitment** since May 2025 with 60-70 hour weeks
 - **Long-term mindset** building a sustainable business, not chasing quick exits
 
 ---
@@ -212,4 +212,4 @@ Transition to: Product & Growth Leader
 
 > "I don't have a traditional CS degree or 15 years of coding experience. What I have is something more valuable for this venture: 15+ years of understanding customers, combined with the ability to build revenue-generating systems using the most modern tools available. That's what Reputera needs right now."
 
-*Document version: 1.0 • Last updated: 2024-01-08*
+*Document version: 1.0 • Last updated: 2026-01-10*

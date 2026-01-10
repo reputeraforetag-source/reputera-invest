@@ -505,4 +505,4 @@ www.imy.se
 
 ---
 
-*This document is reviewed quarterly and updated as needed. Last updated: March 2024. We are committed to maintaining the highest standards of data protection and privacy for all our users.*
+*This document is reviewed quarterly and updated as needed. Last updated: January 2026. We are committed to maintaining the highest standards of data protection and privacy for all our users.*
