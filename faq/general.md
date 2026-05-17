@@ -17,9 +17,9 @@ Vi är ett svenskt aktiebolag (**Reputera Sverige AB**) med säte i Stockholm. A
 
 ### Hur fungerar Smart Routing™?
 1. **SMS-triggning:** När en hantverkare slutför ett jobb (t.ex. via Fortnox eller manuellt i dashboarden) skickas en personlig SMS-förfrågan via vår integration med 46elks.
-2. **Sentiment Recovery:** Om kunden ger 1–3 stjärnor styrs de till ett privat, internt feedbackformulär så att företaget kan lösa problemet privat.
+2. **Sentiment Recovery:** Om kunden ger 1–3 stjärnor styrs de till ett privat, internt feedbackformulär så dat företaget kan lösa problemet privat.
 3. **Google-optimering:** Om kunden ger 4–5 stjärnor slussas de direkt till företagets Google Business Profile för att öka deras synlighet på Google Map Pack.
-4. **AI-Pierre omdömessvar:** Vår AI-assistent "Pierre" genererar ett professionellt, skräddarsytt svar på svenska inom 10 sekunder som hantverkaren kan godkänna med ett klick.
+4. **AI-Pierre omdömessvar:** Vår AI-assistent \"Pierre\" genererar ett professionellt, skräddarsytt svar på svenska inom 10 sekunder som hantverkaren kan godkänna med ett klick.
 
 ### Behöver kunden tekniska förkunskaper?
 Nej. Hela plattformen är byggd för hantverkare i fält (VVS, El, Bygg, Vent) som värdesätter enkelhet. Dashboarden är helt mobilanpassad och onboarding tar under 15 minuter.
@@ -89,4 +89,4 @@ Vi siktar på en exit under År 5 (2031) till en värdering på **150M – 180M 
 
 ---
 
-*För ytterligare information, demo eller tillgång till det fullständiga investeringsmemorandumet, vänligen kontakta Pierre Camilo på **pierre@reputera.se**.*
+*För ytterligare information, demo eller tillgång till det fullständiga investeringsmemorandumet, vänligen kontakta Pierre Camilo på **pierre.camilo@reputera.se**.*
