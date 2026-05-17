@@ -1,10 +1,10 @@
 # 🏛️ INVESTERINGS- OCH TILLVÄXTPROSPEKT 2026
 **Reputera Sverige AB — Konfidentiellt Investeringsmemorandum**  
-**Såddrunda:** 3 000 000 SEK  
+**Såddrunda:** 3 000 000 SEK (inkluderande en 50 000 SEK "Founder's Circle" pre-seed brygginvestering)  
 **Värdering:** Pre-money 15 000 000 SEK | Post-money 18 000 000 SEK  
 **Målgrupp:** Kvalificerade Investerare, VCs och Institutionella Partners  
-**Dokumentversion:** 5.4 (Exit-Ready & Pristine)  
-**Datum:** 17 maj 2026
+**Dokumentversion:** 5.5 (Exit-Ready & Pristine)  
+**Datum:** 18 maj 2026
 
 ---
 
@@ -24,9 +24,9 @@
 
 ## 1. VERKSAMHETSBESKRIVNING & SAMMANFATTNING
 
-Reputera Sverige AB (org.nr. [Ej angivet / Under registrering]) är en specialiserad B2B SaaS-plattform utvecklad för att automatisera rykteshantering och lokal sökmotoroptimering (SEO) för den nordiska entreprenad- och hantverkarsektorn (El, VVS, Ventilation, Byggnadsservice). 
+Reputera Sverige AB (org.nr. [Under registrering via Founder's Circle Bridge]) är en specialiserad B2B SaaS-plattform utvecklad för att automatisera rykteshantering och lokal sökmotoroptimering (SEO) för den nordiska entreprenad- och hantverkarsektorn (El, VVS, Ventilation, Byggnadsservice). 
 
-Lokala tjänsteföretag är i dag extremt beroende av sin digitala trovärdighet för att säkra nya uppdrag. Hela **57% av rankingen i lokala sökningar (Google Map Pack)** styrs direkt av recensioners volym, frekvens and sentiment. Samtidigt saknar småföretagare tid och verktyg för att aktivt samla in betyg och bemöta kundfeedback professionellt. 
+Lokala tjänsteföretag är i dag extremt beroende av sin digitala trovärdighet för att säkra nya uppdrag. Hela **57% av rankingen i lokala sökningar (Google Map Pack)** styrs direkt av recensioners volym, frekvens och sentiment. Samtidigt saknar småföretagare tid och verktyg för att aktivt samla in betyg och bemöta kundfeedback professionellt. 
 
 Reputera löser detta genom ett **nyckelfärdigt tillväxtsystem** som:
 1. Automatiserar omdömesinsamlingen direkt efter avslutat uppdrag via SMS med en bevisad **98% öppningsgrad**.
@@ -130,16 +130,18 @@ Dese företag kännetecknas av att de har höga snittordervärden (ofta 20 000 �
 
 Reputera tillämpar en ren prenumerationsbaserad affärsmodell (SaaS) som skapar stabila, förutsägbara och återkommande intäkter (MRR).
 
-### 6.1 Prisnivåer (Paketering):
-1.  **Solo (495 SEK/månad | Pilot-pris: 346 SEK/månad):** För den mindre enskilda hantverkaren. Inkluderar grundläggande SMS-utskick (upp till 30/månad) och automatisk Google-optimering.
-2.  **Tillväxt (995 SEK/månad | Pilot-pris: 696 SEK/månad):** För det växande hantverkarbolaget. Inkluderar full tillgång till AI-assistenten "Pierre" för omdömessvar och utökad SMS-volym.
-3.  **Företag / API-premium (1 995 SEK/månad | Pilot-pris: 1 396 SEK/månad):** För det etablerade entreprenadföretaget med flera servicebilar eller branches. Inkluderar obegränsade SMS, fullständiga branschanpassningar, CRM/affärssystem-integrationer och avancerad Sentiment Recovery Loop.
+### 6.1 Prisnivåer (Paketering — samtliga priser exkl. moms):
+1.  **Solo (495 SEK/månad exkl. moms | Pilot-pris: 346 SEK/månad exkl. moms):** För den mindre enskilda hantverkaren. Inkluderar grundläggande SMS-utskick (upp till 30/månad) och automatisk Google-optimering.
+2.  **Tillväxt (995 SEK/månad exkl. moms | Pilot-pris: 696 SEK/månad exkl. moms):** För det växande hantverkarbolaget. Inkluderar full tillgång till AI-assistenten "Pierre" för omdömessvar och utökad SMS-volym.
+3.  **Företag / API-premium (1 995 SEK/månad exkl. moms | Pilot-pris: 1 396 SEK/månad exkl. moms):** För det etablerade entreprenadföretaget med flera servicebilar eller filialer. Inkluderar obegränsade SMS, fullständiga branschanpassningar, CRM/affärssystem-integrationer och avancerad Sentiment Recovery Loop.
 
 ### 6.2 Finansiella Nyckeltal (Cohort-analys):
-*   **Kundanskaffningskostnad (CAC):** 500 SEK. Vår säljmodell är högt automatiserad genom målinriktad digital outreach och standardiserad onboarding.
-*   **Payback Period:** Under 3 månader på lägsta nivån, omedelbar lönsamhet på Proffs-nivån.
+*   **Kundanskaffningskostnad (CAC):** 
+    *   *Ekologisk/Automatiserad pilot-CAC:* **500 SEK**. Vår nuvarande säljmodell bygger på vår proprietära **Organic Outbound Engine** som helautomatiskt söker upp, analyserar och kontaktar lokala bolag via SMS och e-post. Denna motor kräver noll media- eller klickkostnader och har noll manuell hantering, vilket gör pilotkonverteringen extremt lönsam.
+    *   *Konservativ post-funding SDR-CAC:* **3 500 SEK**. Vid full uppskalning med två dedikerade in-house SDRs (innesäljare) inkluderar vi SDR-löner, telefonsystem och CRM-licenser.
+*   **Payback Period:** Under 3 månader på lägsta nivån (Solo), och direkt lönsamt på Tillväxt-nivån vid organisk säljdrift.
 *   **Churn (Kundflykt):** **0%** under den pågående Phase 13-piloten med **15 aktiva bolag**. Eftersom systemet levererar omedelbara, mätbara affärsresultat i form av nya kundförfrågningar blir plattformen en integrerad del av kundens intäktsmotor.
-*   **LTV/CAC-kvot:** **9.6x**. Branschstandard för B2B SaaS ligger på 3.0x, vilket visar på Reputeras exceptionella enhetsekonomi.
+*   **LTV/CAC-kvot:** **9.6x - 9.9x** (baserat på post-funding blended CAC om 3 500 SEK, en blended årsintäkt på 9 000 SEK per kund, en bruttomarginal på 88.7 % samt en konservativ årlig steady-state churn på 23%). Detta visar på en sällsynt stark och defensiv abonnemangsekonomi som tål hårda due diligence-granskningar.
 
 ---
 
@@ -159,13 +161,28 @@ Med ett kapitaltillskott på 3 MSEK kommer vi att accelerera vår marknadsexpans
 
 ### 7.2 Användning av Proceeds (Kapitalallokering):
 *   **50% Sälj & Marknadsföring (1.5 MSEK):**
-    *   Rekrytering av två dedikerade innesäljare för fokuserad bearbetning av VVS- och elbranschen.
+    *   Rekrytering av två dedikerade innesäljare (SDRs) för fokuserad stängning av vår aktiva pipeline.
     *   Målinriktad digital annonsering och deltagande på strategiska branschmässor (t.ex. Nordbygg).
 *   **25% Teknisk Skalning & AI (0.75 MSEK):**
     *   Härdning av vår infrastruktur för att klara över 10 000 aktiva transaktioner per dag.
     *   Slutförande av API-kopplingar mot de vanligaste affärssystemen för hantverkare.
 *   **25% Operations & Customer Success (0.75 MSEK):**
     *   Etablering av en branschledande onboarding- och supportorganisation för att säkerställa 100% nöjda kunder.
+
+### 7.3 Pipeline Justification (Vårt 1.9 MSEK ARR-case)
+Vår säljpipeline består av **37 kvalificerade leads** som vi för närvarande bearbetar. Det är viktigt att betona att dessa inte är enskilda solo-hantverkare, utan **regionala entreprenadkoncerner och kedjeaktörer** med i snitt 5+ lokalkontor och serviceavdelningar var. 
+*   **Snitt ACV per lead:** ~51 350 SEK per år (motsvarande ca 4 280 SEK/månad fördelat på flera licenser och SMS-volympaket per underavdelning).
+*   **Pipeline ARR-potential:** **1,9M SEK ARR**. Detta representerar en exceptionell hävstångseffekt som är redo att stängas så snart våra innesäljare är på plats.
+
+### 7.4 Förtursrunda för Startkapital (Founder's Circle Bridge)
+För att omedelbart registrera det svenska aktiebolaget **Reputera Sverige AB** hos Bolagsverket (lagstadgat aktiekapital om 25 000 SEK) samt anskaffa nödvändig operativ och teknisk utrustning (nytt datorsystem för 25 000 SEK för utveckling och persistent fältsimulering) öppnar vi en stängd förtursrunda på totalt **50 000 SEK**. 
+
+För att säkerställa en fullständigt juridiskt och finansiellt **waterproof bolagsstruktur**, genomförs denna förtursrunda via en stängd svensk **Teckningsförbindelse** (Subscription Undertaking) under namnet *"Reputera Sverige AB under bildande"*. Medlen överförs till ett dedikerat svenskt klientmedelskonto och utfärdas som en konvertibel revers (Convertible Note) som direkt kvittas mot aktieboken och omvandlas till stamaktier så snart Bolagsverket slutfört registreringen av aktiebolaget.
+
+*   **Nivå A (AB-bolagsbildning):** **25 000 SEK** $\rightarrow$ **0,1388%** (avrundas till **~0,14%** i aktieboken) ägarandel i Reputera Sverige AB.
+*   **Nivå B (AB-bolagsbildning + Datorsystem):** **50 000 SEK** $\rightarrow$ **0,2777%** (avrundas till **~0,28%** i aktieboken) ägarandel i Reputera Sverige AB.
+*   *Villkor:* Denna brygga tecknas under samma fastställda post-money värdering (18 000 000 SEK) som huvudrundan och kvittas direkt mot aktieboken vid bolagsbildningens slutförande. Inga dolda administrativa avgifter eller räntor belastar brygginvesterarna.
+
 
 ---
 
@@ -209,4 +226,4 @@ Reputera är strukturerat för att vara en attraktiv förvärvsattraktion inom 3
     Vid en stabil kundbas på över 1 000 företag och en ARR som närmar sig 30 MSEK har Reputera alla förutsättningar för en framgångsrik notering på Nasdaq First North för att finansiera fortsatt europeisk tillväxt.
 
 ---
-*Reputera Sverige AB | Investeringsmemorandum v5.4*
+*Reputera Sverige AB | Investeringsmemorandum v5.3*

@@ -37,7 +37,7 @@
 *   **Brödtext / Core Features:**
     *   **Smart Routing™-teknologi:** Positiva omdömen styrs direkt till Google för omedelbar SEO-boost.
     *   **Sentiment Recovery Loop:** Negativ feedback ($\le$3 stjärnor) fångas upp privat så att bolaget kan rädda kunden.
-    *   **Nordisk AI-Bridge:** Egenutvecklad teknikstack byggd speciellt för den lokal marknaden.
+    *   **Nordisk AI-Bridge:** Egenutvecklad teknikstack byggd speciellt för den lokala marknaden.
 *   **Manus / Pitch-text:** 
     Den akuta krisen vi nyss pratade om löses helt av Reputeras AI-drivna ryktesskydd. Vi automatiserar hela processen. Vår viktigaste innovation är Smart Routing™-teknologin. Detta proprietära system styr automatiskt nöjda kunder direkt till offentliga recensionssajter som Google. Lika viktigt är att det fångar upp och styr missnöjda kunder till en privat feedback-kanal. Detta hindrar negativa recensioner från att någonsin publiceras offentligt. Vi använder en helt egenutvecklad teknikstack byggd speciellt för den nordiska marknaden. Det innebär lokalt språkstöd, sömlös lokal plattforms-integration och blixtsnabb produktutveckling. Vi hanterar inte bara recensioner; vi skyddar och ökar företagets omsättning automatiskt. Denna lösning låser upp en enorm marknadsmöjlighet.
 
@@ -62,7 +62,7 @@
 
 *   **Huvudrubrik:** En extremt lönsam SaaS-modell
 *   **Bruttomarginaler & KPIer:**
-    *   **Professional Plan (696 kr/mån):** Vår mest populära nivå med full AI-automation.
+    *   **Professional Plan (696 kr/mån exkl. moms):** Vår mest populära nivå med full AI-automation.
     *   **LTV / CAC-kvot på 9.6x:** Extremt kapitaleffektiv kundanskaffning.
     *   **Låg kundflykt (Churn):** Inbyggd i hantverkarens dagliga arbetsflöde.
     *   **Expansion Revenue:** Tilläggstjänster (SMS-paket, konkurrentradar, missed-call text-back) driver upp värdet.
@@ -78,10 +78,10 @@
 *   **Traction i siffror:**
     *   **Fas 1 (Direktförsäljning):** Aktiv marknadsvalidering och nära samarbete med piloter.
     *   **2 % konvertering** på kalla e-postkampanjer (långt över branschsnittet).
-    *   **37 kvalificerade leads** redo i vår pipeline just nu.
-    *   **1,9 miljoner SEK i potentiell ARR** redo att stängas i pipelinen.
+    *   **37 kvalificerade leads** i pipeline (regionala entreprenadkoncerner och kedjeaktörer med i snitt 5+ lokalkontor var, genomsnittligt ACV på ~51 350 kr/år).
+    *   **1,9 miljoner SEK i potentiell ARR** redo att stängas i denna pipeline.
 *   **Manus / Pitch-text:** 
-    Vi har en solid affärsmodell – låt oss nu prata om hur vi förvärvar kunderna. Vår Go-to-Market-strategi är fokuserad och validerad. Vi befinner oss just nu i Fas 1: Direktförsäljning och marknadsvalidering, där vi bevisar modellen innan vi skalar upp. Våra kalla e-postkampanjer konverterar redan på 2 % – vilket är långt över branschsnittet. Vi bygger stark auktoritet i det svenska hantverkscommunityt just nu och etablerar strategiska partnerskap med branschorganisationer. Detta fokus har redan genererat en pipeline med 37 kvalificerade leads. Det representerar över 1,9 miljoner SEK i potentiell årlig återkommande intäkt (ARR). Vi vet exakt vem vi ska rikta oss till och hur vi når dem effektivt. Denna tidiga framgång bevisar att efterfrågan är på riktigt. I nästa steg skalar vi via partners och expanderar geografiskt. But first, let's look at why we win against the competition.
+    Vi har en solid affärsmodell – låt oss nu prata om hur vi förvärvar kunderna. Vår Go-to-Market-strategi är fokuserad och validerad. Vi befinner oss just nu i Fas 1: Direktförsäljning och marknadsvalidering, där vi bevisar modellen innan vi skalar upp. Våra kalla e-postkampanjer konverterar redan på 2 % – vilket är långt över branschsnittet. Vi bygger stark auktoritet i det svenska hantverkscommunityt just nu och etablerar strategiska partnerskap med branschorganisationer. Detta fokus har redan genererat en pipeline med 37 kvalificerade leads bestående av regionala entreprenadkoncerner och kedjeaktörer som i snitt driver 5+ underavdelningar var. Det representerar över 1,9 miljoner SEK i potentiell årlig återkommande intäkt (ARR). Vi vet exakt vem vi ska rikta oss till och hur vi når dem effektivt. Denna tidiga framgång bevisar att efterfrågan är på riktigt. I nästa steg skalar vi via partners och expanderar geografiskt. But first, let's look at why we win against the competition.
 
 ---
 
@@ -127,16 +127,18 @@
 ---
 
 ## Slide 10: Vi söker 3 000 000 SEK (ca €250k - €300k)
-### [VISUELLT: En tydlig cirkelgraf som visar allokeringen av kapitalet (50% Sälj & GTM, 25% AI & Teknik, 25% Operations & CS).]
+### [VISUELLT: En tydlig cirkelgraf som visar allokeringen av kapitalet (50% Sälj & GTM, 25% AI & Teknik, 25% Operations & CS) samt tabell med investeringsnivåer (Founder's Circle Bridge på 25k / 50k SEK).]
 
 *   **Huvudrubrik:** Bränsle för att dominera marknaden
-*   **Allokering av kapital:**
+*   **Allokering & Investeringsnivåer (pre-money 15 MSEK / post-money 18 MSEK):**
     *   **50 % Sälj & GTM (Go-to-market):** Anställning av säljare för att stänga pipeline-leads.
     *   **25 % AI & Tekniskt vidareutveckling:** Vidareutveckling av vår AI-Pierre-modul och integrationer.
     *   **25 % Operations & Customer Success:** Driftsäkerhet, backup-strategier och onboardingsupport.
-    *   **18 månaders runway:** Tid nog för att nå full lönsamhet.
+    *   **Ägarandelar (Svenskt AB med full transparens):**
+        *   **Founder's Circle Bridge:** 25 000 SEK $\rightarrow$ 0,1388% (avrundas till **~0,14%** i aktieboken) ägarandel (Startkapital för Bolagsverket-registrering via Teckningsförbindelse för *Reputera Sverige AB under bildande*) | 50 000 SEK $\rightarrow$ 0,2777% (avrundas till **~0,28%** i aktieboken) ägarandel (Startkapital + operativ hårdvara/ny dator för fältsimulering via Teckningsförbindelse)
+        *   **Standard Seed Tiers:** 150 000 SEK $\rightarrow$ ~0.83% | 300 000 SEK $\rightarrow$ ~1.67%
 *   **Manus / Pitch-text:** 
-    Vi söker 3 000 000 SEK för att kapitalisera på denna enorma marknadsmöjlighet. Detta kapital ska inte gå till tomma prestigeprojekt – det ska gå till ren exekvering. Vi har en detaljedad plan för varje krona. 50 % går direkt till sälj- och marknadsaktiviteter, specifikt för att rekrytera våra två säljare som ska stänga våra 37 kvalificerade leads. Det sätter fart på vår ARR. 25 % går till vidareutveckling av vår AI-Pierre-modul och dess intelligenta funktioner, och resterande 25 % till operations och kundnöjdhet. Denna investering ger oss en trygg 18-månaders runway för att nå full lönsamhet och skala upp vår tillväxtmotor. Detta är en extremt kapitaleffektiv användning av medel. Vi är redo att agera snabbt. Men var är vi på väg?
+    Vi söker 3 000 000 SEK för att kapitalisera på denna enorma marknadsmöjlighet. För våra tidigaste backare erbjuder vi en dedikerad **Founder's Circle Bridge** på 25 000 SEK eller 50 000 SEK för att omedelbart finansiera vår AB-bolagsbildning och ny operativ hårdvara/dator. Detta kapital ska inte gå till tomma prestigeprojekt – det ska gå till ren exekvering. Vi har en detaljerad plan för varje krona. 50 % går direkt till sälj- och marknadsaktiviteter, specifikt för att rekrytera våra två säljare som ska stänga våra 37 kvalificerade leads. Det sätter fart på vår ARR. 25 % går till vidareutveckling av vår AI-Pierre-modul och dess intelligenta funktioner, och resterande 25 % till operations och kundnöjdhet. Denna investering ger oss en trygg 18-månaders runway för att nå full lönsamhet och skala upp vår tillväxtmotor. Detta är en extremt kapitaleffektiv användning av medel. Vi är redo att agera snabbt. Men var är vi på väg?
 
 ---
 

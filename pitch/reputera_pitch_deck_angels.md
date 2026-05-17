@@ -53,7 +53,7 @@
     *   **1,2 miljoner småföretag** i Norden som står inför samma utmaning.
     *   **9 000 SEK i blended ARPU:** Lönsam, stabil och stark enhetsekonomi per kund och år (beräknat på 750 SEK/mån).
 *   **Manus / Pitch-text:** 
-    Vi fokuserar helt på de lokala servicehjältarna – de som driver rörmokarfirmor, elfirmor och byggföretag. Det finns över 120 000 sådana bolag bara i Sverige, och de delar exakt samma problem. Marknadspotentialen är gigantisk. Vår genomsnittliga intäkt per kund och år ligger på cirka 9 000 SEK. Detta är a mycket homogen målgrupp där enhetsekonomin är stark från dag ett, och vi kan skala upp plattformen snabbt över hela Norden långt innan de stora amerikanska jättarna hinner anpassa sina verktyg för vår lokala marknad.
+    Vi fokuserar helt på de lokala servicehjältarna – de som driver rörmokarfirmor, elfirmor och byggföretag. Det finns över 120 000 sådana bolag bara i Sverige, och de delar exakt samma problem. Marknadspotentialen är gigantisk. Vår genomsnittliga intäkt per kund och år ligger på cirka 9 000 SEK. Detta är en mycket homogen målgrupp där enhetsekonomin är stark från dag ett, och vi kan skala upp plattformen snabbt över hela Norden långt innan de stora amerikanska jättarna hinner anpassa sina verktyg för vår lokala marknad.
 
 ---
 
@@ -62,12 +62,12 @@
 
 *   **Huvudrubrik:** En förutsägbar och stabil abonnemangsmodell (SaaS)
 *   **Våra abonnemang:**
-    *   **Solo (Enskilda hantverkaren):** 346 kr/mån (Pilot) / 495 kr/mån (Standard)
-    *   **Tillväxt (Vår storsäljare med full AI):** 696 kr/mån (Pilot) / 995 kr/mån (Standard)
+    *   **Solo (Enskilda hantverkaren):** 346 kr/mån exkl. moms (Pilot) / 495 kr/mån exkl. moms (Standard)
+    *   **Tillväxt (Vår storsäljare med full AI):** 696 kr/mån exkl. moms (Pilot) / 995 kr/mån exkl. moms (Standard)
     *   **LTV / CAC-kvot på 9.6x:** Vi får tillbaka nästan 10x pengarna för varje krona vi satsar på kundanskaffning.
     *   **Hög kundlojalitet (Låg Churn):** Mjukvaran betalar sig själv genom nya kundförfrågningar.
 *   **Manus / Pitch-text:** 
-    Vår affärsmodell är enkel, trygg och fantastiskt skalbar. Vår Solo-plan på 346 kr/månad under piloten är ett självklart val för den enskilda hantverkaren. Vår Tillväxt-plan på 696 kr/månad ger dem full tillgång till vår AI-rådgivare Pierre. Det här är en tjänst som snabbt blir oumbärlig för kunden eftersom den betalar sig själv många gånger om. Med en beräknad LTV till CAC-kvot på 9.6x bygger vi ett extremt kapitaleffektivt bolag där varje krona vi investerar ger en enorm avkastning i långsiktigt bolagsvärde.
+    Vår affärsmodell är enkel, trygg och fantastiskt skalbar. Vi säljer Reputera som ett månatligt abonnemang (SaaS). Vår Solo-plan på 346 kr/månad under piloten är ett självklart val för den enskilda hantverkaren. Vår Tillväxt-plan på 696 kr/månad ger dem full tillgång till vår AI-rådgivare Pierre. Det här är en tjänst som snabbt blir oumbärlig för kunden eftersom den betalar sig själv många gånger om. Med en beräknad LTV till CAC-kvot på 9.6x bygger vi ett extremt kapitaleffektivt bolag där varje krona vi investerar ger en enorm avkastning i långsiktigt bolagsvärde.
 
 ---
 
@@ -78,10 +78,10 @@
 *   **Traction & Pipeline:**
     *   **Fas 1 (Marknadsvalidering):** Vi har bevisat att hantverkarna vill ha detta *nu*.
     *   **2 % konverteringsgrad** på våra första digitala e-postkampanjer.
-    *   **37 kvalificerade leads** redo i vår pipeline just nu.
-    *   **1,9 miljoner SEK i potentiell ARR** (årlig återkommande intäkt) i pipelinen.
+    *   **37 kvalificerade leads** redo i vår pipeline (regionala entreprenadkoncerner och kedjeaktörer med i snitt 5+ underavdelningar/lokalkontor var, genomsnittligt ACV på ~51 350 kr/år).
+    *   **1,9 miljoner SEK i potentiell ARR** (årlig återkommande intäkt) i denna högkvalitativa pipeline.
 *   **Manus / Pitch-text:** 
-    Vi har testat vår försäljningsmetod och vi vet exakt hur vi når kunden billigt och effektivt. Våra tidiga, helt digitala kampanjer konverterar redan på 2 % – vilket är långt över branschsnittet för B2B-försäljning. Idag har vi en pipeline med 37 kvalificerade hantverksbolag som väntar på att ansluta sig. Det representerar över 1,9 miljoner SEK i framtida årliga abonnemangsintäkter. Efterfrågan är med andra ord fullständigt validerad och bevisad. Vi vet exakt vem vi ska rikta oss till och hur vi stänger affärerna.
+    Vi har testat vår försäljningsmetod och vi vet exakt hur vi når kunden billigt och effektivt. Våra tidiga, helt digitala kampanjer konverterar redan på 2 % – vilket är långt över branschsnittet för B2B-försäljning. Idag har vi en pipeline med 37 kvalificerade hantverksbolag och regionala koncerner som väntar på att ansluta sig. Detta är storkonton som i snitt driver 5+ underavdelningar och lokalkontor var, vilket ger ett exceptionellt genomsnittligt kontraktsvärde. Det representerar över 1,9 miljoner SEK i framtida årliga abonnemangsintäkter. Efterfrågan är med andra ord fullständigt validerad och bevisad. Vi vet exakt vem vi ska rikta oss till och hur vi stänger affärerna.
 
 ---
 
@@ -133,11 +133,14 @@
     *   **Allokering:** 50 % Sälj & GTM (Go-to-market) | 25 % AI & Tekniskt vidareutveckling | 25 % Operations & Customer Success.
     *   **18 månaders runway:** För att nå full lönsamhet och etablera oss som marknadsledare.
     *   **Ägarandelar (Svenskt AB med full transparens):**
-        *   **50 000 SEK** $\rightarrow$ Cirka 0.28 % ägarandel
-        *   **150 000 SEK** $\rightarrow$ Cirka 0.83 % ägarandel
-        *   **300 000 SEK** $\rightarrow$ Cirka 1.67 % ägarandel
+        *   **Founder's Circle Bridge (Begränsade platser):**
+            *   **25 000 SEK** $\rightarrow$ 0,1388% (avrundas till **~0,14%** i aktieboken) ägarandel (Startkapital för Bolagsverket-registrering via Teckningsförbindelse för *Reputera Sverige AB under bildande*)
+            *   **50 000 SEK** $\rightarrow$ 0,2777% (avrundas till **~0,28%** i aktieboken) ägarandel (Startkapital + operativ hårdvara/ny dator för persistent fältsimulering via Teckningsförbindelse)
+        *   **Standard Seed-poster:**
+            *   **150 000 SEK** $\rightarrow$ Cirka 0.83 % ägarandel
+            *   **300 000 SEK** $\rightarrow$ Cirka 1.67 % ägarandel
 *   **Manus / Pitch-text:** 
-    Vi erbjuder nu en begränsad grupp av tidiga affärsänglar, vänner och strategiska partners att gå in som delägare i **Reputera Sverige AB** under samma förmånliga villkor. Vi söker totalt 3 000 000 SEK för att skala upp vår bevisade modell. Varje krona går direkt till exekvering – 50 % till GTM-insatser för att anställa säljare som kan konvertera vår pipeline, 25 % till vidareutveckling av vår AI-Pierre-modul, och 25 % till CS och drift. Denna investering ger oss en trygg 18-månaders runway för att nå full lönsamhet. Det är en extremt kapitaleffektiv användning av kapital.
+    Vi erbjuder nu en begränsad grupp av tidiga affärsänglar, vänner och strategiska partners att gå in som delägare i **Reputera Sverige AB** under samma förmånliga villkor. För våra absolut tidigaste backare erbjuder vi en dedikerad **Founder's Circle Bridge** på 25 000 SEK eller 50 000 SEK för att omedelbart finansiera vår AB-bolagsbildning och operativ utrustning. Vi söker totalt 3 000 000 SEK för att skala upp vår bevisade modell. Varje krona går direkt till exekvering – 50 % till GTM-insatser för att anställa säljare som kan konvertera vår pipeline, 25 % till vidareutveckling av vår AI-Pierre-modul, och 25 % till CS och drift. Denna investering ger oss en trygg 18-månaders runway för att nå full lönsamhet. Det är en extremt kapitaleffektiv användning av kapital.
 
 ---
 
