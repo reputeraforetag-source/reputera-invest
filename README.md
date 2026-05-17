@@ -31,6 +31,7 @@ OBS! Delar av dokumenten är på engelska för utländska intressenter.
 - [Revenue Model](/financials/revenue-model.md)
 
 ### 🚀 Pitch Materials
+- [Investerings- & Tillväxtprospekt (Due Diligence)](/pitch/investor-memorandum-sv.md)
 - [Pitch Deck](/pitch/pitch-deck.pdf)
 - [Executive Summary](/pitch/executive-summary.md)
 - [Problem & Solution](/pitch/problem-solution.md)
@@ -70,14 +71,15 @@ Founder & CTO, Reputera
 Telefon: +34 623 038 590
 
 **Nästa steg:**
-1. Läs [Executive Summary](/pitch/executive-summary.md)
-2. Granska [Financial Projections](/financials/projections-2025.md)
-3. Boka demo eller möte via email
+1. Läs [Investeringsprospektet (Due Diligence)](/pitch/investor-memorandum-sv.md)
+2. Läs [Executive Summary](/pitch/executive-summary.md)
+3. Granska [Financial Projections](/financials/projections-2025.md)
+4. Boka demo eller möte via email
 
 PRESENTATION (MANUS.IM)
 https://manus.im/share/file/9df543a3-9470-43d8-b9ba-33f8b778d837
 
----
+---\
 *Transparent, data-driven, och redo att växa. Välkommen att utforska vår resa.*
 
 ## Förbehåll
