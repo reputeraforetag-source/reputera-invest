@@ -97,7 +97,7 @@ My approach is building with modern AI tools, not traditional coding:
 Client: Stockholm Construction Company
 ├── Starting point: 3.8 stars, 12 Google reviews
 ├── After 3 months: 4.4 stars, 61 reviews (+49!)
-├── Their feedback: "This finally made review management manageable"
+├── Their feedback: \"This finally made review management manageable\"
 └── Business impact: +120,000 SEK in new business they attribute to better ratings
 ```
 
@@ -177,20 +177,20 @@ Transition to: Product & Growth Leader
 
 ## **🟢 Personal Motivation**
 ### **❤️ Why This Matters to Me**
-"My journey hasn't been traditional tech—it's been sales, consulting, creative work, and seeing businesses struggle. I've sat with workshop owners watching their phones not ring because of one bad review. I've seen amazing craftsmen lose contracts to inferior competitors with better Google ratings. This isn't abstract—it's people's livelihoods."
+\"My journey hasn't been traditional tech—it's been sales, consulting, creative work, and seeing businesses struggle. I've sat with workshop owners watching their phones not ring because of one bad review. I've seen amazing craftsmen lose contracts to inferior competitors with better Google ratings. This isn't abstract—it's people's livelihoods.\"
 
 ### **🎯 What Success Looks Like**
-"Success isn't a billion-dollar exit. It's seeing Swedish craftsmen, clinics, and small businesses thrive because they control their online reputation. It's building a sustainable company that employs people here in Stockholm. It's creating tools that actually help, not just look impressive on a tech blog."
+\"Success isn't a billion-dollar exit. It's seeing Swedish craftsmen, clinics, and small businesses thrive because they control their online reputation. It's building a sustainable company that employs people here in Stockholm. It's creating tools that actually help, not just look impressive on a tech blog.\"
 
 ### **⚡ Why Now**
-"The tools exist, the market needs it, and the timing is perfect. Swedish businesses are digitally ready but underserved. AI makes complex automation affordable. I have the right combination of customer understanding and technical ability to make this work. And I'm willing to put in the years to build it right."
+\"The tools exist, the market needs it, and the timing is perfect. Swedish businesses are digitally ready but underserved. AI makes complex automation affordable. I have the right combination of customer understanding and technical ability to make this work. And I'm willing to put in the years to build it right.\"
 
 ---
 
 ## **🟢 Contact & Transparency**
 
 ### **📞 Direct Access**
-- **Email:** pierre@reputera.se
+- **Email:** pierre.camilo@reputera.se
 - **LinkedIn:** linkedin.com/in/pierrecamilo
 - **GitHub:** github.com/reputera-invest (public build log)
 - **Location:** Stockholm, Sweden
@@ -210,6 +210,6 @@ Transition to: Product & Growth Leader
 
 ---
 
-> "I don't have a traditional CS degree or 15 years of coding experience. What I have is something more valuable for this venture: 15+ years of understanding customers, combined with the ability to build revenue-generating systems using the most modern tools available. That's what Reputera needs right now."
+> \"I don't have a traditional CS degree or 15 years of coding experience. What I have is something more valuable for this venture: 15+ years of understanding customers, combined with the ability to build revenue-generating systems using the most modern tools available. That's what Reputera needs right now.\"
 
 *Document version: 1.0 • Last updated: 2026-01-10*
