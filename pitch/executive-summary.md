@@ -1,105 +1,80 @@
 # Executive Summary – Reputera
 
 ## The One-Liner
-Reputera är en AI-driven SaaS-plattform som automatiserar insamling, analys och hantering av online-recensioner för småföretag – från hantverkare till vårdkliniker.
+Reputera är en AI-driven SaaS-plattform som automatiserar insamling, sentiment-routing och AI-svar av online-recensioner för lokala småföretag (hantverkare, elektriker, VVS) helt utan manuellt arbete.
 
 ## Problem
-Småföretag förlorar kunder och intäkter på grund av dåligt online-rykte:
-- Endast 1-2% av nöjda kunder lämnar recensioner spontant
-- 70% av missnöjda kunder lämnar negativa recensioner
-- Manuell hantering är tidskrävande och inkonsekvent
-- 1 stjärna på Google = 30% färre kunder för ett småföretag
+Lokala servicebolag förlorar uppdrag och intäkter på grund av dålig digital synlighet och saknade omdömen:
+- Endast 1–2% av nöjda kunder lämnar recensioner spontant.
+- En enda obefogad dålig recension kan sänka ett litet bolags omsättning med 30 % (upp till 450 000 SEK/år i förlorade uppdrag).
+- Hantverkare har noll tid att hantera lokala omdömen eller GMB-optimering.
+- Bra omdömen vinner 70 % av de lokala sökningarna på Google Map Pack.
 
 ## Solution
-Reputera automatiserar hela processen:
-1. **Automatisk påminnelse** via SMS/mejl efter service
-2. **AI-analys** av sentiment och betyg
-3. **Smart Routing™** – positiva recensioner till Google, negativa hanteras internt
-4. **AI-genererade svar** för snabb, professionell kommunikation
-5. **Reputation Score™** – ett enkelt betyg som följs över tid
+Reputera automatiserar hela processen på autopilot:
+1. **Automatisk SMS-påminnelse** (98% öppningsgrad) direkt efter slutfört arbete via integrations-triggers.
+2. **Smart Routing™** – positiva recensioner styrs direkt till Google, medan negativ feedback fångas upp privat för sentiment recovery innan den skadar ryktet.
+3. **Decoupled AI reply engine ("Pierre")** – formulerar professionella, lokala svar på under 10 sekunder.
+4. **Enkel dashboard** – noll krångliga sandlåde-system. Allt rullar i bakgrunden.
 
 ## Proprietary Technology
-Byggd från grunden av founder Pierre Camilo:
-- **Frontend:** WordPress 6.x + Custom PHP plugins
-- **Backend:** Supabase (Postgres 15) med Row-Level Security
-- **AI Orchestration:** Claude API + DeepSeek API kombination
-- **SMS:** 46elks (Sverige-fokus)
-- **Full stack kontroll:** Ingen beroende av tredjeparts-plattformar
+En beprövad, modern och driftsatt teknikstack ägd till 100 % internt (byggd solo av grundaren Pierre Camilo):
+- **Core Engine:** WordPress Child Theme & klass-baserad arkitektur (`Reputera\Services`).
+- **Database:** Supabase Postgres med strikt Row-Level Security (RLS) för fullständig dataseparering och GDPR-säkerhet.
+- **AI-orkestrering:** Frikopplad AI Bridge som sömlöst integrerar lokala LLM-modeller (Ollama) med automatisk failover till DeepSeek API.
+- **SMS Gateway:** 46elks (Sverige-fokus och högsta lokala leveranssäkerhet).
 
 ## Market Opportunity
-**Sverige:** 200,000 service-baserade småföretag
-- 120,000 hantverkare
-- 1,000 privata vårdkliniker
-- 345 kiropraktorer
-- 7,000 advokatbyråer
-- 1,200 frisörer
+**Sverige:** 200 000 service-baserade småföretag.
+- 120 000 aktiva hantverkare (VVS, El, Bygg, Ventilation) utgör vår omedelbara hemmamarknad.
+- **Skandinavien:** 1,2 miljoner adresserbara småföretag (Norge, Danmark, Finland).
 
-**Globalt:** $19.3B USD marknad 2026 (15.6% CAGR)
-
-## Traction & Validation
-- **3 betalande kunder** med 12-månaders kontrakt
-- **Bevisade resultat:** +49 recensioner, +120k SEK ökad omsättning för en kund
-- **85% responsfrekvens** på SMS-påminnelser
-- **70% minskning** av negativa offentliga recensioner
+## Traction & Validation (Phase 13 Pilot)
+- **15 betalande pilotkunder** med **0 % Churn** (noll kundflykt).
+- **Growth Engine:** 3 947 unika spårade besökare på plattformen live.
+- **Klar pipeline:** 37 varma, kvalificerade leads redo att stängas.
+- **ARR potential i pipeline:** Över 1,9 miljoner SEK i ARR redo.
+- **Kundresultat:** Genomsnitt +49 recensioner och mätbart ökat kundinflöde inom 90 dagar.
 
 ## Business Model
-**SaaS Subscription** med tiered pricing:
-- **Starter:** 195 kr/mån (mikroföretag)
-- **Solo:** 295 kr/mån (småföretag)
-- **Tillväxt:** 695 kr/mån (växande företag)
+**SaaS Subscription** med tydliga abonnemangsnivåer (MRR):
+- **Solo (Enskilda firman):** 346 kr/mån (Pilot) / 495 kr/mån (Standard)
+- **Tillväxt (Företag med AI Pierre):** 696 kr/mån (Pilot) / 995 kr/mån (Standard)
+- **Företag / API-premium (Integrerat):** 1 396 kr/mån (Pilot) / 1 995 kr/mån (Standard)
 
-**Add-ons:** Extra användare, konkurrentbevakning, NFC-taggar
-**ARPU Target:** 4,800 SEK/år
-**Gross Margin:** 81%
+**Hög-profitabla Upsells (Expansion):** Missed-call text-back system (+399 kr/mån), SMS-overage topups, samt konkurrentradar.
+**Blended ARPU Mål:** 750 SEK/mån (9 000 SEK/år)
+**LTV / CAC-kvot:** 9.6x (återbetalningstid < 3 månader)
+**Gross Margin:** > 85 % vid full skala
 
 ## Go-to-Market Strategy
-1. **Fase 1:** Hantverkare (testad, låg CAC: 500 SEK)
-2. **Fase 2:** Vertikal expansion (vård, juridik, skönhet)
-3. **Fase 3:** Geografisk expansion (Norge, Danmark)
+1. **Fas 1 (Nischdominans):** Svenska hantverkare (validerad låg CAC på ~500 kr via direkt outreach).
+2. **Fas 2 (Vertikal expansion):** Service- och tjänstebolag (vård, jurister, skönhetskliniker).
+3. **Fas 3 (Geografisk expansion):** Rulla ut i Norge och Danmark.
 
 ## Financial Projections
-| **År** | **Kunder** | **ARR** | **EBITDA** |
-|--------|------------|---------|------------|
-| **2025** | 1,000 | 4.8M SEK | -0.5M SEK |
-| **2026** | 2,500 | 12.0M SEK | 2.4M SEK |
-| **2027** | 5,000 | 24.0M SEK | 9.6M SEK |
-
-**Break-even:** Månad 6 efter investering
+| **År** | **Kunder** | **ARR** | **EBITDA-marginal** |
+|--------|------------|---------|---------------------|
+| **År 1 (2026)** | 200 | 1.8M SEK | Kassaflödespositivt Månad 6 |
+| **År 2 (2027)** | 800 | 7.2M SEK | 35 % EBITDA |
+| **År 3 (2028)** | 2 000 | 18.0M SEK | 45 % EBITDA |
 
 ## Investment Ask
-**Söker:** 6M SEK i seed-rundan
-**Användning:**
-- 40% Marketing & Growth
-- 35% Team Expansion
-- 15% Product Development
-- 10% Buffer & Legal
+**Söker:** 3 000 000 SEK (€250k - €300k) i seed-rundan för marknadsskalning.
+**Användning av medel:**
+- 40 % Produktutveckling (AI-optimering och mobilapp)
+- 35 % Sälj & Marknadsföring (rekrytering av 2 st säljare omedelbart)
+- 25 % Drift, integrationer & legalt
+- **Runway:** 18 månader (når full lönsamhet under perioden)
 
 ## Team
 **Pierre Camilo** – Founder & CTO
-- Byggt hela tekniska stacken solo
-- 15+ år inom webbutveckling
-- Expert inom WordPress, PHP, Supabase, AI-integrationer
-- Filosofi: "Vibe Code" – clean, maintainable, scalable
+- 17+ års erfarenhet av webbutveckling, mjukvaruarkitektur och produktägarskap.
+- Byggt hela plattformen solo, vilket eliminerar all utvecklingsrisk.
+- Filosofi: Ren, modern kodstruktur frikopplad för headless exit.
 
 ## Exit Potential
 **År 5 Exit Scenario:**
 - ARR: 40M+ SEK
-- Valuation: 5x ARR = 200M SEK
-- Strategic Acquirers: Bokadirekt, Visma, Teamtailor, international SaaS players
-
-## Why Invest Now?
-1. **Proven Tech:** Fullt fungerande plattform med bevisad effekt
-2. **Proven Market:** Testad med betalande kunder
-3. **Low CAC:** 500 SEK via testade kanaler
-4. **High Margin:** 81% gross margin
-5. **Scalable:** Multi-tenant arkitektur klar för 10,000+ kunder
-6. **Defensible:** Proprietär tech stack byggd från grunden
-
-## Next Steps
-1. Due diligence via GitHub repository
-2. Live demo av plattformen
-3. Möte med founder team
-4. Term sheet diskussion
-
-**Kontakt:**
-Pierre Camilo | pierre.camilo@reputera.se | 
+- Valuation: 10x ARR premium multipel = 400M SEK
+- Tänkbara köpare: Visma, Fortnox, Bokadirekt, internationella SaaS-koncerner.
