@@ -1,91 +1,67 @@
-# Användning av Kapital – 6M SEK
+# Användning av Kapital – 3M SEK Såddrunda
+**Reputera Sverige AB — Investeringsallokering**
 
 ## Översikt
 | **Kategori** | **Belopp (SEK)** | **%** | **Tidsram** |
 |--------------|------------------|-------|-------------|
-| **Marketing & Growth** | 2,400,000 | 40% | 18 månader |
-| **Team Expansion** | 2,100,000 | 35% | 24 månader |
-| **Product Development** | 900,000 | 15% | 12 månader |
-| **Buffer & Legal** | 600,000 | 10% | 24 månader |
-| **Total** | **6,000,000** | **100%** | |
+| **Sälj & Marknadsföring (GTM)** | 1,500,000 | 50% | 18 månader |
+| **Teknisk Skalning & AI Engine** | 750,000 | 25% | 18 månader |
+| **Operations & Customer Success** | 750,000 | 25% | 18 månader |
+| **Total** | **3,000,000** | **100%** | |
+
+---
 
 ## Detaljerad Fördelning
 
-### 1. Marketing & Growth (2.4M SEK)
-**Fokus: Kundanskaffning och marknadsandel**
+### 1. Sälj & Marknadsföring (1.5M SEK)
+**Fokus: Dominera den svenska hantverkarsektorn (VVS, El, Bygg, Vent)**
 
-| **Aktivitet** | **Belopp** | **Mål** |
-|---------------|------------|---------|
-| **Performance Marketing** | 1,500,000 | 3,000 kunder (500 SEK CAC) |
-| - Google/Facebook Ads | 800,000 | 1,600 kunder |
-| - LinkedIn Lead Gen | 300,000 | B2B decision makers |
-| - Influencer/Partnerships | 200,000 | Industry thought leaders |
-| - Retargeting | 200,000 | Higher conversion |
-| **Content & SEO** | 500,000 | Organic growth foundation |
-| - Blog content (50 artiklar) | 200,000 | SEO traffic |
-| - Case studies (10 st) | 150,000 | Social proof |
-| - Video content | 100,000 | Demo/explainer |
-| - SEO optimization | 50,000 | Technical SEO |
-| **Event & Partnerships** | 400,000 | Brand building |
-| - Industry events (5 st) | 200,000 | Networking |
-| - Partnership programs | 100,000 | Referral network |
-| - Customer conferences | 100,000 | Loyalty building |
+| **Aktivitet** | **Belopp (SEK)** | **Mål & Metod** |
+|---------------|------------------|-----------------|
+| **Automatiserad Outreach & CS** | 800,000 | Finansiering av två dedikerade innesäljare (commission-hybrid) som driver direkt outreach och stänger de 37 pipeline-leads (1.9M SEK ARR potential). |
+| **Performance Marketing** | 450,000 | Riktad lokal annonsering via Facebook Ads och Google Map Pack-kampanjer för att fånga upp "hantverkare i närheten" sökningar. |
+| **Branschmässor & Nätverk** | 250,000 | Närvaro på strategiska svenska mässor (t.ex. Nordbygg) samt integrationer med lokala branschorganisationer. |
 
-### 2. Team Expansion (2.1M SEK)
-**Fokus: Bygga A-team för skalning**
+---
 
-| **Roll** | **Lön (år)** | **Anställningsmånad** | **Total Kostnad** |
-|----------|--------------|----------------------|-------------------|
-| **Growth Marketer** | 700,000 | Månad 1 | 1,400,000 (2 år) |
-| **Customer Success** | 550,000 | Månad 3 | 1,100,000 (2 år) |
-| **Tech Lead** | 850,000 | Månad 6 | 1,275,000 (1.5 år) |
-| **Totalt Team** | **2,100,000** | | |
+### 2. Teknisk Skalning & AI Engine (0.75M SEK)
+**Fokus: Systemets mognadsgrad, skalbarhet och GDPR-säker multi-tenancy**
 
-**Arbetsgivaravgifter:** Inkluderat i ovanstående siffror
-**Rekryteringskostnader:** 150,000 SEK (inkluderat i buffer)
+| **Projekt** | **Belopp (SEK)** | **Mål & Metod** |
+|-------------|------------------|-----------------|
+| **API-integrationer** | 350,000 | Färdigställande av färdiga kopplingar mot hantverkarnas ledande affärssystem och faktureringsverktyg (t.ex. Fortnox). |
+| **AI Engine & SLA** | 250,000 | Optimering av den frikopplade AI-assistenten "Pierre" (Ollama local inference + DeepSeek failover bridge) för svarsgenerering under 10 sekunder. |
+| **Infrastruktur & RLS** | 150,000 | Härdning av Supabase Postgres 15 och Row Level Security (RLS) för att sömlöst klara över 10 000 dagliga transaktioner. |
 
-### 3. Product Development (0.9M SEK)
-**Fokus: AI-förbättringar och skalbarhet**
+---
 
-| **Projekt** | **Belopp** | **Leverans** |
-|-------------|------------|--------------|
-| **AI Optimization** | 300,000 | Q2-Q3 2026 |
-| - Multi-language support | 100,000 | Svenska, Norska, Danska |
-| - Response quality improvement | 100,000 | Claude 3.5 integration |
-| - Sentiment analysis v2 | 100,000 | Advanced NLP |
-| **Platform Scalability** | 300,000 | Q1-Q2 2026 |
-| - API development | 150,000 | Third-party integrations |
-| - Database optimization | 100,000 | 10,000+ kunder |
-| - Monitoring/alerts v2 | 50,000 | Proactive issue detection |
-| **Mobile & UX** | 300,000 | Q3 2026 - Q4 2026 |
-| - Mobile app MVP | 200,000 | iOS/Android |
-| - Dashboard redesign | 100,000 | Improved usability |
+### 3. Operations & Customer Success (0.75M SEK)
+**Fokus: Behålla 0% Churn genom proaktiv onboarding samt strikt legal regelefterlevnad**
 
-### 4. Buffer & Legal (0.6M SEK)
-**Fokus: Riskhantering och compliance**
+| **Post** | **Belopp (SEK)** | **Mål & Metod** |
+|----------|------------------|-----------------|
+| **Customer Success & Support** | 450,000 | Onboarding-support för nya hantverkarfirmor för att garantera että de uppnår "Aha-upplevelsen" under de första 7 dagarna. |
+| **GDPR & Legal Compliance** | 200,000 | Etablering av den kompletta svenska aktiebolagsstrukturen (Reputera Sverige AB) samt uppdatering av kundavtal och sekretessavtal enligt GDPR. |
+| **Kassabuffert (Contingency)** | 100,000 | Taktisk reserv för oförutsedda operativa kostnader under de kommande 18 månaderna. |
 
-| **Post** | **Belopp** | **Beskrivning** |
-|----------|------------|-----------------|
-| **Contingency Buffer** | 300,000 | 5% av total budget |
-| **Legal & Compliance** | 200,000 | Estonian OÜ setup, contracts |
-| **Insurance & Licenses** | 50,000 | Business insurance, software |
-| **Accounting & Admin** | 50,000 | Bookkeeping, tools |
+---
 
-## Milestone-based Releases
-**6M SEK ger oss följande milestones:**
+## 📈 Milstolpar & Resultat (Milestone Releases)
 
-| **Milestone** | **Belopp** | **Timing** | **Mått** |
-|---------------|------------|------------|----------|
-| **MVP Scaling** | 1.5M SEK | M1-M3 | 500 kunder |
-| **Team Build** | 2.0M SEK | M4-M9 | Full team operational |
-| **Product V2** | 1.0M SEK | M10-M12 | Mobile app + AI v2 |
-| **Profitability** | 1.5M SEK | M13-M18 | Break-even sustained |
+Vår tillväxtplan med 3M SEK är uppdelad i tydliga, mätbara etapper under en 18-månadersperiod:
 
-## Return on Investment Kalkyl
-**Med 6M SEK investering (Q1 2026):**
-- **År 1 (2026):** 4.8M SEK ARR (0.8x investering)
-- **År 2 (2027):** 12.0M SEK ARR (2.0x investering)
-- **År 3 (2028):** 24.0M SEK ARR (4.0x investering)
-- **Exit (År 5, 2031):** 200M SEK värdering (33x investering)
+1.  **Milestone 1: Pilot-Skalning (Månad 1-3 | 0.5M SEK):**
+    *   Expandera från 15 till 60 betalande kunder.
+    *   Färdigställa Fortnox API-integrationen.
+2.  **Milestone 2: Nationell Expansion (Månad 4-9 | 1.2M SEK):**
+    *   Nå 150 betalande kunder (ARR 1.35 MSEK).
+    *   Etablera säljorganisationen i Stockholm och Göteborg.
+3.  **Milestone 3: AI V2 & Kundsuccé (Månad 10-12 | 0.8M SEK):**
+    *   Nå 300 betalande kunder (ARR 2.7 MSEK).
+    *   Släppa mobilapp-MVP för hantverkare i fält.
+4.  **Milestone 4: Break-Even & Expansion (Månad 13-18 | 0.5M SEK):**
+    *   Nå 600+ kunder (ARR 5.4 MSEK) och full operativ lönsamhet.
+    *   Förbereda lansering i Norge och Danmark.
 
-**Capital Efficiency:** Varje 1 SEK investering genererar 8 SEK i ARR inom 3 år.
+---
+*Transparent, kapitaleffektivt och målinriktat. Reputera Sverige AB.*
