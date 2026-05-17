@@ -61,4 +61,4 @@ Dessa bolag har redan hundratusentals hantverkare som kunder och letar ständigt
 
 ---
 
-*Detto dokument är en del av Reputera Sverige AB:s investerardatarum. För mer detaljerade finansiella modeller, vänligen kontakta Pierre Camilo på **pierre@reputera.se**.*
+*Detta dokument är en del av Reputera Sverige AB:s investerardatarum. För mer detaljerade finansiella modeller, vänligen kontakta Pierre Camilo på **pierre.camilo@reputera.se**.*
