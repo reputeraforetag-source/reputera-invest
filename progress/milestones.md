@@ -1,232 +1,98 @@
-# Milestones & Roadmap – Reputera
+# Milestones & Roadmap – Reputera Sverige AB
 
 ## Completed Milestones
 **Q2 2025 – Q1 2026**
 
-### ✅ Product Development
+### ✅ Product Development & Architecture
 **MVP Development (May–July 2025)**
 - Core platform architecture completed
-- WordPress + Supabase integration
-- Basic AI response generation
-- SMS notification system (46elks)
+- WordPress (System of Record) + Supabase (Postgres RLS Multi-tenancy) integration
+- SMS notification system (46elks) for direct customer routing
+- Smart Routing™ (1-3 stars internal feedback, 4-5 stars direct to Google)
 
-**Tech Stack Finalization (Q3–Q4 2025)**
-- Claude API integration
-- DeepSeek API for cost optimization
-- Row-Level Security implementation
-- Custom monitoring dashboards
+**AI-Pierre Engine (Q3–Q4 2025)**
+- Local LLM inference (Ollama bridge)
+- Decoupled enterprise API integration (DeepSeek failover bridge)
+- Response quality audit (professional, empathetic Swedish tones)
+- In-app digital assistant persona finalized
 
-**UI/UX Polish (Q4 2025)**
-- Mobile-responsive admin panel
-- Bootstrap 5 implementation
-- Custom dashboard design
-- Branding and visual identity
-
----
-
-### ✅ Market Validation
-**First Customer Onboarding (Q3 2025)**
-- 3 paying customers signed
-- 12-month contracts secured
-- Custom onboarding process
-- Feedback loops implemented
-
-**Metrics Collection (Q4 2025)**
-- Key metrics dashboard built
-- Customer usage tracking
-- Review impact measurement
-- ROI calculation for customers
+**Security & Platform Hardening (Q1 2026)**
+- Strict GDPR-compliant zero-persistence logging
+- High-premium "Industrial Dungeon" design overhaul
+- Desktop/mobile responsive views finalized
+- Stable, automated cron jobs for review checking
 
 ---
 
-### ✅ Legal & Compliance
-**GDPR Compliance (Q2 2025)**
-- Data processing agreements
-- Privacy policy
-- Cookie consent management
-- Data retention policies
+### ✅ Market & Customer Validation
+**Phase 13 Pilot Success**
+- **15 paying customers** successfully onboarded
+- **0 % Churn** (nollprocentig kundflykt)
+- **3 947 unique visitors** tracked
+- **37 qualified leads** ready in the pipeline (motsvarande **1.9M SEK ARR potential**)
+- Validated CAC of 500 SEK and payback under 1 month
 
 ---
 
-## Current Phase: Seed Preparation  
-**Q1 2026**
+## Current Phase: Seed Round & GTM Scaling
+**Q2 2026**
 
-### 🎯 Q1 2026 Goals
-
-#### 💰 Investment Preparation
-- Final financial projections
-- Investor deck & data room
-- GitHub investor repository
-- Legal structure finalized
-
-#### 📈 Growth Foundation
-- Refined onboarding
-- Documented case studies
-- Referral program
-- Content strategy live
-
-#### 🔧 Product Enhancements
-- Improved AI response quality
-- Multi-language support (SE / EN / NO)
-- Enhanced reporting
-- First integrations
-
-### Key Metrics Target (End Q1 2026)
-- 10–15 paying customers
-- ≥90% customer satisfaction (NPS)
-- <3% monthly churn
-- CAC ≤ 500 SEK
-- Avg customer rating ≥ 4.5 / 5
+### 🎯 Key Goals (Seed Phase)
+*   **Fundraising:** Säkra **3M SEK** i sådd-runda (pre-money 15M SEK, post-money 18M SEK)
+*   **GTM Engine:** Anställa två dedikerade innesäljare för outbound hantverkar-fokus
+*   **Pipeline Conversion:** Stänga de 37 leads i pipelinen och nå första 50 kunderna
 
 ---
 
-## Phase 1: Seed Execution  
-**Q2–Q3 2026**
+## Phase 1: Post-Investment Execution
+**Q3–Q4 2026**
 
-### 🚀 Post-Investment Milestones (6M SEK)
+### 🚀 Post-Investment Milestones (3M SEK Proceeds)
 
-#### Month 1–2: Team & Systems
-**Team Expansion**
-- Hire Growth Marketer
-- Hire Customer Success Manager
-- Onboard first employees
-- Define internal processes
+#### Month 1–3: Team & System Integration
+*   **Team Expansion:** Rekrytera 2 innesäljare (commission-hybrid) + 1 Customer Success support
+*   **Fortnox API:** Slutföra full integration med de ledande affärssystemen (Fortnox, Entré, etc.)
+*   **Onboarding Automation:** Minska onboarding-tiden för nya hantverkare till under 15 minuter
+*   **Traction Target:** Nå 100 betalande kunder (ARR 900 000 SEK)
 
-**Systems**
-- CRM (HubSpot)
-- Marketing automation
-- Support system
-- Analytics stack
+#### Month 4–6: Growth Acceleration & Product V2
+*   **AI Pierre V2:** Full automatisering av omdömessvar med granskning i fält
+*   **Mobile App MVP:** Släppa dedikerad mobilapp för hantverkare att trigga SMS direkt från byggarbetsplatsen
+*   **Traction Target:** Nå 200 betalande kunder (ARR 1.8M SEK) och uppnå operativt break-even
 
 ---
 
-#### Month 3–4: Growth Acceleration
-**Customer Acquisition**
-- Scale proven channels 5×
-- Test 3 new acquisition channels
-- Referral program live
-- Content engine running
+## Phase 2: Scale Expansion
+**2027**
 
-**Targets**
-- +100 customers
-- CAC < 600 SEK
-- Conversion rate > 10%
-- LTV : CAC > 5 : 1
+### 🎯 H1 2027 Goals: Regional Dominance
+*   **Scale:** Nå 500 betalande kunder (ARR 4.5M SEK)
+*   **Regional Expansion:** Etablera säljkanaler i Göteborg och Malmö
+*   **Bruttomarginal:** Bibehålla **88 % gross margin** genom serveroptimering
 
----
-
-#### Month 5–6: Product & Revenue
-**Platform Enhancements**
-- AI v2 (Claude 3.5)
-- Mobile app MVP
-- Advanced reporting
-- Public API (beta)
-
-**Financial Milestones**
-- 500 customers
-- 200k SEK MRR
-- Burn rate ~250k SEK / month
-- 6+ months runway
+### 🎯 H2 2027 Goals: Nordic Expansion
+*   **Scale:** Nå 800 betalande kunder (ARR 7.2M SEK)
+*   **Internationalization:** Lansera plattformen i Norge och Danmark med full lokal SMS-support
+*   **Profitability:** Nå +25% EBITDA-marginal
 
 ---
 
-## Phase 2: Growth Scaling  
-**Q4 2026 – Q4 2027**
-
-### 🎯 H1 2027 Goals
-**Scale**
-- 1,000 customers
-- 10,000+ end-users
-- 5% craftsmen market penetration
-
-**Financials**
-- 5M SEK ARR
-- ≥80% gross margin
-- EBITDA positive
-
-**Expansion**
-- Norway launched
-- Danish localization
-- Partner network
-
----
-
-### 🎯 H2 2027 Goals
-**Accelerated Growth**
-- 2,500 customers
-- 12M SEK ARR
-- 15% craftsmen market share
-
-**Product Expansion**
-- Enterprise tier
-- 3 major integrations
-- Full mobile apps
-- Advanced AI automation
-
----
-
-## Phase 3: Market Leadership  
+## Phase 3: Market Leadership
 **2028**
 
-### 🎯 2028 Goals
-**Market Position**
-- #1 review management platform for craftsmen in Sweden
-- 5,000+ customers
-- 24M SEK ARR
-
-**Geographic Expansion**
-- All Nordic countries established
-- DACH market entry preparation
-
-**Company Maturity**
-- 15+ employees
-- Strong brand recognition
-- Multiple revenue streams
+### 🎯 2028 Goals: Nischdominans
+*   **SOM Target:** Nå **2 000 aktiva kunder** (1.6% av den svenska hantverkarmarknaden)
+*   **ARR Target:** **18.0M SEK ARR**
+*   **Lönsamhet:** Nå +38% EBITDA-marginal (6.8M SEK i årlig vinst)
+*   **Team Size:** 8–10 personer (högintäkts- per anställd hävstång)
 
 ---
 
-## Long-Term Vision  
-**2029+**
+## Long-Term Vision & Exit Strategy
+**2029–2031**
 
-- 10,000+ customers
-- 50M+ SEK ARR
-- Reputation Intelligence Platform
-- Predictive analytics & automated reputation defense
-- Select European expansion and acquisitions
+*   **SOM Growth:** Nå 5 000+ kunder i hela Norden (ARR 45M+ SEK)
+*   **Exit-värdering (År 5, 2031):** **150M – 180M SEK** baserat på strategiskt uppköp av t.ex. Offerta, Bygghemma, Visma eller globala aktörer som Podium.
 
 ---
-
-## Funding Milestones
-
-**Seed Round – Q1 2026**
-- Target: 6M SEK
-- Use: Team, marketing, product
-- Goal: 500–1,000 customers by EOY 2026
-
-**Series A – Q4 2027**
-- Target: 20–30M SEK
-- Use: International expansion, team scaling
-- Goal: 5,000 customers by EOY 2028
-
----
-
-## Risk-Adjusted Scenarios
-
-### Conservative
-- 2026: 750 customers – 3.6M SEK ARR
-- 2027: 1,800 customers – 8.6M SEK ARR
-- 2028: 3,500 customers – 16.8M SEK ARR
-
-### Base Case (Current Plan)
-- 2026: 1,000 customers – 4.8M SEK ARR
-- 2027: 2,500 customers – 12.0M SEK ARR
-- 2028: 5,000 customers – 24.0M SEK ARR
-
-### Aggressive
-- 2026: 1,500 customers – 7.2M SEK ARR
-- 2027: 4,000 customers – 19.2M SEK ARR
-- 2028: 8,000 customers – 38.4M SEK ARR
-
----
-
-*This roadmap reflects our current assumptions and will be updated quarterly based on market feedback, performance data, and strategic opportunities.*
+*Detta roadmap reflekterar våra faktiska, uppdaterade antaganden baserat på Phase 13 Pilotdata.*
