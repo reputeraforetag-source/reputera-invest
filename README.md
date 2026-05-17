@@ -2,24 +2,26 @@
 
 **AI-drivet Recensionshantering/management för Småföretag**
 
-Möjlighet att investera i Reputera-Sveriges Kraftfullaste Recensions Manager driven av AI
+Möjlighet att investera i Reputera — Sveriges kraftfullaste ryktes- och recensions autopilot driven av AI.
 
-OBS! Delar av dokumänten är på engelska för utlänska intressenter
+OBS! Delar av dokumenten är på engelska för utländska intressenter.
 
 ## 🚀 Snabbfakta
-- **Söker:** 6M SEK i seed-rundan
+- **Söker:** 3M SEK i seed-rundan (ca €250 000 - €300 000)
 - **Värdering:** [Förhandlingsbart] MSEK (pre-money)
-- **Milstolpe:** Bli Skandinaviens största AI-plattform för recensionshantering
-- **Traction:** 3 betalande kunder med bevisade resultat
+- **Milstolpe:** Bli Skandinaviens ledande AI-plattform för automatiserad recensionshantering och lokal SEO-dominans.
+- **Traction:** 15 betalande pilotkunder (Phase 13 Pilot) med **0 % Churn** (noll kundflykt) + 37 kvalificerade leads i pipelinen.
 - **Location:** Stockholm, Sverige
 - **Founder:** Pierre Camilo – Byggt hela tekniska stacken solo
+- **Produktstatus:** 100 % klar och driftsatt i produktion. Noll utvecklingsrisk.
 
 ## 📊 Nyckeltal
-- **ARPU Mål:** 4,800 SEK/år
-- **CAC:** ~500 SEK (testade kanaler)
-- **Break-even:** 6 månader (post-investment Q1 2026)
-- **År 3 ARR (2028):** 24M SEK
-- **Exit Valuation (År 5, 2031):** 200M SEK (5x ARR multiple)
+- **Blended ARPU Mål:** 750 SEK/mån (9 000 SEK/år)
+- **CAC:** ~500 SEK (testade och validerade kanaler)
+- **Break-even:** 6 månader (post-investment 2026)
+- **LTV / CAC-kvot:** 9.6x (extremt kapitaleffektiv tillväxtmotor)
+- **År 3 ARR (2028):** 18M SEK (vid 2 000 aktiva kunder)
+- **Exit Valuation (År 5, 2031):** 150M - 180M SEK (baserat på premium 10x ARR multipel)
 
 ## 📁 Dokumentstruktur
 
@@ -59,26 +61,25 @@ OBS! Delar av dokumänten är på engelska för utlänska intressenter
 - [Exit Strategy](/faq/exit-strategy.md)
 
 ## 🎯 Investeringsmöjlighet
-Vi bygger plattformen som löser ett akut problem för 200,000 svenska småföretag: automatiserad hantering av recensioner och online-rykte. Med vår proprietära AI-teknik och låga CAC har vi bevisat att modellen fungerar.
+Vi bygger plattformen som löser ett akut problem för 200 000 svenska småföretag: automatiserad insamling av omdömen, sentiment-routing och AI-svar för Google My Business. Genom att fokusera laserfokuserat på hantverkssektorn (VVS, El, Bygg) har vi bevisat att kunden stannar för evigt (0 % churn i piloten) eftersom systemet genererar faktiska leads på autopilot.
 
 ## 📞 Kontakt
 **Pierre Camilo**  
 Founder & CTO, Reputera  
-[pierre.camilo@reputera.se](mailto:pierre@reputera.se)  
-
+[pierre.camilo@reputera.se](mailto:pierre.camilo@reputera.se)  
+Telefon: +34 623 038 590
 
 **Nästa steg:**
 1. Läs [Executive Summary](/pitch/executive-summary.md)
 2. Granska [Financial Projections](/financials/projections-2025.md)
-3. Boka demo via email
+3. Boka demo eller möte via email
 
-PRESENTATION
+PRESENTATION (MANUS.IM)
 https://manus.im/share/file/9df543a3-9470-43d8-b9ba-33f8b778d837
 
 ---
 *Transparent, data-driven, och redo att växa. Välkommen att utforska vår resa.*
 
 ## Förbehåll
-
-Alla siffror och prognoser är baserade på nuvarande antaganden och kan komma att justeras.  
+Alla siffror och prognoser är baserade på nuvarande antaganden och faktiska historiska pilotdata, och kan komma att justeras.  
 Vi uppdaterar materialet kontinuerligt i takt med ny data och faktisk utveckling.
