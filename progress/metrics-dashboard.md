@@ -69,8 +69,9 @@
 ### Cash Flow Metrics
 | **Metric** | **Current** | **Target (Post-investment)** | **Notes** |
 |------------|-------------|------------|-----------|
-| **Monthly Burn Rate** | ~150 000 SEK | ~250 000 SEK | Controlled GTM acceleration |
-| **Runway** | ~8 months | 18 months | With 3M SEK Seed Round |
+| **Monthly Burn Rate (Gross)** | ~150 000 SEK | ~250 000 SEK | Controlled GTM acceleration |
+| **Monthly Burn Rate (Net Avg)** | ~138 000 SEK | ~166 000 SEK | Net burn decreases as MRR scales |
+| **Runway** | ~8 months | 18+ months | Supported by 3M SEK Seed + revenue offsets |
 | **Cash Balance** | ~1.2M SEK | 4.2M SEK | Post-seed cash target |
 
 ---
