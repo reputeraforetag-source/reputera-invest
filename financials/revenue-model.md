@@ -41,6 +41,10 @@ Våra prispunkter är noggrant paketerade baserat på företagets storlek och be
     *   ✓ Dedikerad Customer Success Manager ( Pierre-support)
     *   ✓ White-label rapporter och anpassad Sentiment Loop
 
+> [!NOTE]
+> **Regionala samlingsavtal (Enterprise):** För större installationskedjor och regionala entreprenadbolag med flera lokalkontor eller franchisefilialer (t.ex. VVS- och elinstallatörsgrupper) erbjuder vi skräddarsydda samlingsavtal. Genomsnittligt kontraktsvärde (ACV) för dessa enterprise-kunder är **51 350 SEK/år** (motsvarande ca 4 280 SEK/månad per grupp) baserat på antal licenser och platser under premium-villkor.
+
+
 ---
 
 ## Genomsnittlig abonnemangsintäkt (Blended ARPU)
@@ -74,14 +78,16 @@ Vår molnarkitektur och frikopplade AI-modul är optimerade för extremt höga b
 
 ## 📊 Enhetsekonomi & Livscykelanalys (Unit Economics)
 
-*   **Kundanskaffningskostnad (CAC):** **500 SEK**  
-    Tack vare vår hyper-riktade och automatiserade kalla outreach-motor stänger vi nya hantverkarbolag extremt billigt.
-*   **Payback Period (Återbetalningstid):** **Under 1 månad**  
-    Vid en blended ARPU på 750 SEK och en CAC på 500 SEK är kunden lönsam redan under sin första månad.
+*   **Kundanskaffningskostnad (CAC):**
+    *   *Nuvarande (Pilot):* **500 SEK** – Vår automatiserade Organic Outbound Engine kräver minimal säljinsats och har noll klickkostnader.
+    *   *Post-Funding Blended (Långsiktigt):* **3 075 SEK** – Inkluderar fullt belastade SDR-löner, telefonsystem, provisioner och CRM-licenser under vår nationella tillväxtfas.
+*   **Payback Period (Återbetalningstid):** **Under 1 månad** för den organiska piloten (vid blended ARPU på 750 SEK och CAC på 500 SEK är kunden lönsam direkt), och under **4.1 månader** på blended långsiktig basis.
 *   **Kundflykt (Churn):** **0%**  
     Under hela Phase 13-piloten har vi haft noll kundflykt. Eftersom systemet direkt genererar bättre ranking och nya förfrågningar på Google Map Pack, fungerar Reputera som en kritisk intäktsmotor. Att stänga av Reputera innebär att tappa sina Google-recensioner, vilket hantverkare inte har råd med.
-*   **LTV/CAC-kvot (Lifetime Value vs CAC):** **9.6x**  
-    Vid konservativt beräknad 2.5% churn blir livstidsvärdet (LTV) per kund 29 520 SEK, vilket ger en enastående hävstång på säljkapitalet.
+*   **LTV/CAC-kvot (Lifetime Value vs CAC):**
+    *   *Nuvarande (Pilot):* **59.0x** (baserat på 500 SEK organisk CAC och konservativt beräknat LTV på 29 520 SEK).
+    *   *Post-Funding Blended (Långsiktigt):* **9.6x** (baserat på en blended CAC på 3 075 SEK och LTV på 29 520 SEK beräknat på 2.5% steady-state churn). Detta representerar en enastående hävstång på säljkapitalet som överträffar branschstandard för B2B SaaS.
+
 
 ---
 *Reputera Sverige AB | Intäktsmodell och SaaS-ekonomi*

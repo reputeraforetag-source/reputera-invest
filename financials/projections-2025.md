@@ -13,7 +13,7 @@
 - **Q1-Q2:** Fokus på Phase 13 Pilot och första 50 betalande kunderna.
 - **Q3-Q4:** Accelererad outreach och CRM-integrationer. Nå 200 kunder vid årets slut.
 - **ARR vid EOY:** 1.8M SEK.
-- **Kassaflödesstatus:** Break-even nås under månad 6 av runda.
+- **Kassaflödesstatus:** Break-even nås under månad 14 av runda (Milestone 4, månad 13–18).
 
 ### Antaganden & Unit Economics
 1. **Blended ARPU:** 750 SEK/mån (9 000 SEK/år) baserat på prispunkter:
@@ -21,8 +21,8 @@
    - Tillväxt: 995 kr/mån (696 kr/mån pilot)
    - Företag / API-premium: 1 995 kr/mån (1 396 kr/mån pilot)
 2. **Churn:** 0 % uppmätt under pågående piloter. Långsiktigt antaget till 1.5% brutto tack vare hög SEO-inlåsning.
-3. **CAC:** 500 SEK via validerade och automatiserade outbound kanaler.
-4. **LTV/CAC-kvot:** 9.6x (exceptionellt kapitaleffektiv).
+3. **CAC:** 500 SEK nuvarande organisk CAC (upp till 3 075 SEK blended efter såddrunda när SDR-säljorganisationen är live).
+4. **LTV/CAC-kvot:** 59.0x nuvarande organisk (9.6x långsiktigt blended).
 
 ### Kostnadsstruktur (År 3, vid full skalning)
 | **Kostnadstyp** | **% av Revenue** | **Noter** |

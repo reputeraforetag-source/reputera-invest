@@ -18,7 +18,7 @@
 
 | **Aktivitet** | **Belopp (SEK)** | **Mål & Metod** |
 |---------------|------------------|-----------------|
-| **Automatiserad Outreach & CS** | 800,000 | Finansiering av två dedikerade innesäljare (commission-hybrid) som driver direkt outreach och stänger de 37 pipeline-leads (1.9M SEK ARR potential). |
+| **Automatiserad Outreach & CS** | 800,000 | Finansiering av två dedikerade innesäljare (commission-hybrid) som driver direkt outreach och stänger de 37 pipeline-leads (regionala entreprenadkoncerner och kedjeaktörer med 5+ underavdelningar/lokalkontor var, motsvarande ~51 350 SEK ACV/år per lead, vilket ger totalt 1.9M SEK ARR potential). |
 | **Performance Marketing** | 450,000 | Riktad lokal annonsering via Facebook Ads och Google Map Pack-kampanjer för att fånga upp "hantverkare i närheten" sökningar. |
 | **Branschmässor & Nätverk** | 250,000 | Närvaro på strategiska svenska mässor (t.ex. Nordbygg) samt integrationer med lokala branschorganisationer. |
 

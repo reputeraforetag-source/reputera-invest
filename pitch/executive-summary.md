@@ -44,7 +44,7 @@ En beprövad, modern och driftsatt teknikstack ägd till 100 % internt (byggd so
 
 **Hög-profitabla Upsells (Expansion):** Missed-call text-back system (+399 kr/mån), SMS-overage topups, samt konkurrentradar.
 **Blended ARPU Mål:** 750 SEK/mån (9 000 SEK/år)
-**LTV / CAC-kvot:** 9.6x (återbetalningstid < 3 månader)
+**LTV / CAC-kvot:** 59.0x nuvarande organisk (9.6x långsiktigt blended)
 **Gross Margin:** > 85 % vid full skala
 
 ## Go-to-Market Strategy
@@ -55,7 +55,7 @@ En beprövad, modern och driftsatt teknikstack ägd till 100 % internt (byggd so
 ## Financial Projections
 | **År** | **Kunder** | **ARR** | **EBITDA-marginal** |
 |--------|------------|---------|---------------------|
-| **År 1 (2026)** | 200 | 1.8M SEK | Kassaflödespositivt Månad 6 |
+| **År 1 (2026)** | 200 | 1.8M SEK | Kassaflödespositivt Månad 14 |
 | **År 2 (2027)** | 800 | 7.2M SEK | 35 % EBITDA |
 | **År 3 (2028)** | 2 000 | 18.0M SEK | 45 % EBITDA |
 

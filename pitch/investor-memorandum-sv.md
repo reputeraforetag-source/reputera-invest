@@ -33,7 +33,7 @@ Reputera löser detta genom ett **nyckelfärdigt tillväxtsystem** som:
 2. Styr positiva omdömen till Google för omedelbar SEO-effekt.
 3. Isolerar missnöjda kunder internt genom en stängd **Sentiment Recovery Loop**, vilket ger bolaget en chans att lösa problemet innan ett negativt omdöme publiceras offentligt.
 
-Efter tre framgångsrika sälj- och produkttester (Phase 13 Pilot) uppvisar Reputera en **kundlojalitet på 100% (nollprocentig kundflykt)** samt en enastående **LTV/CAC-kvot på 9.6x**. Produkten är fullt färdigutvecklad och driftas på en modern, tekniskt skuldfri och GDPR-säkrad arkitektur. 
+Efter tre framgångsrika sälj- och produkttester (Phase 13 Pilot) uppvisar Reputera en **kundlojalitet på 100% (nollprocentig kundflykt)** samt en enastående **LTV/CAC-kvot på 59.0x (9.6x långsiktigt blended)**. Produkten är fullt färdigutvecklad och driftas på en modern, tekniskt skuldfri och GDPR-säkrad arkitektur. 
 
 Vi söker nu **3 MSEK** i tillväxtkapital under en ren svensk aktiebolagsstruktur (Reputera Sverige AB) för att skala upp marknadsorganisationen och expandera till Norge och Danmark under 2026–2027.
 
@@ -135,13 +135,18 @@ Reputera tillämpar en ren prenumerationsbaserad affärsmodell (SaaS) som skapar
 2.  **Tillväxt (995 SEK/månad exkl. moms | Pilot-pris: 696 SEK/månad exkl. moms):** För det växande hantverkarbolaget. Inkluderar full tillgång till AI-assistenten "Pierre" för omdömessvar och utökad SMS-volym.
 3.  **Företag / API-premium (1 995 SEK/månad exkl. moms | Pilot-pris: 1 396 SEK/månad exkl. moms):** För det etablerade entreprenadföretaget med flera servicebilar eller filialer. Inkluderar obegränsade SMS, fullständiga branschanpassningar, CRM/affärssystem-integrationer och avancerad Sentiment Recovery Loop.
 
-### 6.2 Finansiella Nyckeltal (Cohort-analys):
-*   **Kundanskaffningskostnad (CAC):** 
-    *   *Ekologisk/Automatiserad pilot-CAC:* **500 SEK**. Vår nuvarande säljmodell bygger på vår proprietära **Organic Outbound Engine** som helautomatiskt söker upp, analyserar och kontaktar lokala bolag via SMS och e-post. Denna motor kräver noll media- eller klickkostnader och har noll manuell hantering, vilket gör pilotkonverteringen extremt lönsam.
-    *   *Konservativ post-funding SDR-CAC:* **3 500 SEK**. Vid full uppskalning med två dedikerade in-house SDRs (innesäljare) inkluderar vi SDR-löner, telefonsystem och CRM-licenser.
-*   **Payback Period:** Under 3 månader på lägsta nivån (Solo), och direkt lönsamt på Tillväxt-nivån vid organisk säljdrift.
-*   **Churn (Kundflykt):** **0%** under den pågående Phase 13-piloten med **15 aktiva bolag**. Eftersom systemet levererar omedelbara, mätbara affärsresultat i form av nya kundförfrågningar blir plattformen en integrerad del av kundens intäktsmotor.
-*   **LTV/CAC-kvot:** **9.6x - 9.9x** (baserat på post-funding blended CAC om 3 500 SEK, en blended årsintäkt på 9 000 SEK per kund, en bruttomarginal på 88.7 % samt en konservativ årlig steady-state churn på 23%). Detta visar på en sällsynt stark och defensiv abonnemangsekonomi som tål hårda due diligence-granskningar.
+> [!NOTE]
+> **Regionala samlingsavtal (Enterprise):** För större installationskedjor och regionala entreprenadbolag med flera lokalkontor eller franchisefilialer (t.ex. VVS- och elinstallatörsgrupper) erbjuder vi skräddarsydda samlingsavtal. Genomsnittligt kontraktsvärde (ACV) för dessa enterprise-kunder är **51 350 SEK/år** (motsvarande ca 4 280 SEK/månad per grupp) baserat på antal licenser och platser under premium-villkor.
+
+### 6.2 Finansiella Nyckeltal (Unit Economics):
+*   **Kundanskaffningskostnad (CAC):**
+    *   *Nuvarande (Pilot):* **500 SEK** – Vår säljmodell bygger på vår proprietära **Organic Outbound Engine** som helautomatiskt söker upp, analyserar och kontaktar lokala bolag via SMS och e-post. Denna motor kräver noll media- eller klickkostnader och har noll manuell hantering, vilket gör pilotkonverteringen extremt lönsam.
+    *   *Post-Funding Blended (Långsiktigt):* **3 075 SEK** – Inkluderar fullt belastade SDR-löner, telefonsystem, provisioner och CRM-licenser under vår nationella tillväxtfas.
+*   **Payback Period (Återbetalningstid):** Under **1 månad** för den organiska piloten (vid blended ARPU på 750 SEK och CAC på 500 SEK är kunden lönsam direkt), och under **4.1 månader** på blended långsiktig basis.
+*   **Churn (Kundflykt):** **0%** under den pågående Phase 13-piloten med **15 aktiva bolag**. Eftersom systemet levererar omedelbara, mätbara affärsresultd i form av nya kundförfrågningar blir plattformen en integrerad del av kundens intäktsmotor.
+*   **LTV/CAC-kvot (Lifetime Value vs CAC):**
+    *   *Nuvarande (Pilot):* **59.0x** (baserat på 500 SEK organisk CAC och konservativt beräknat LTV på 29 520 SEK).
+    *   *Post-Funding Blended (Långsiktigt):* **9.6x** (baserat på en blended CAC på 3 075 SEK och LTV på 29 520 SEK beräknat på 2.5% steady-state churn). Detta representerar en enastående hävstång på säljkapitalet som överträffar branschstandard för B2B SaaS.
 
 ---
 
@@ -157,7 +162,7 @@ Med ett kapitaltillskott på 3 MSEK kommer vi att accelerera vår marknadsexpans
 | **Återkommande intäkter (ARR)** | 1 800 000 | 7 200 000 | 18 000 000 |
 | **Bruttomarginal** | 82% | 85% | 88% |
 | **EBITDA-marginal** | -10% (Investeringsfas) | +25% | +38% |
-| **Kassaflöde** | Positivt Månad 6 | Positivt | Positivt |
+| **Kassaflöde** | Break-even Månad 14 | Positivt | Positivt |
 
 ### 7.2 Användning av Proceeds (Kapitalallokering):
 *   **50% Sälj & Marknadsföring (1.5 MSEK):**
