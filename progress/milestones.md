@@ -89,10 +89,10 @@
 ---
 
 ## Long-Term Vision & Exit Strategy
-**2029–2031**
+**2029–2030**
 
 *   **SOM Growth:** Nå 5 000+ kunder i hela Norden (ARR 45M+ SEK)
-*   **Exit-värdering (År 5, 2031):** **150M – 180M SEK** baserat på strategiskt uppköp av t.ex. Offerta, Bygghemma, Visma eller globala aktörer som Podium.
+*   **Exit-värdering (År 5, 2030):** **150M – 180M SEK** baserat på strategiskt uppköp av t.ex. Offerta, Bygghemma, Visma eller globala aktörer som Podium.
 
 ---
 *Detta roadmap reflekterar våra faktiska, uppdaterade antaganden baserat på Phase 13 Pilotdata.*

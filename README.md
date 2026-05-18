@@ -18,10 +18,10 @@ OBS! Delar av dokumenten är på engelska för utländska intressenter.
 ## 📊 Nyckeltal
 - **Blended ARPU Mål:** 750 SEK/mån (9 000 SEK/år)
 - **CAC:** ~500 SEK (testade och validerade kanaler)
-- **Break-even:** 6 månader (post-investment 2026)
+- **Break-even:** 14 månader (post-investment, under 2027)
 - **LTV / CAC-kvot:** 9.6x (extremt kapitaleffektiv tillväxtmotor)
 - **År 3 ARR (2028):** 18M SEK (vid 2 000 aktiva kunder)
-- **Exit Valuation (År 5, 2031):** 150M - 180M SEK (baserat på premium 10x ARR multipel)
+- **Exit Valuation (År 5, 2030):** 150M - 180M SEK (baserat på premium 10x ARR multipel)
 
 ## 📁 Dokumentstruktur
 

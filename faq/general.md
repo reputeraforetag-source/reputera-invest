@@ -85,7 +85,7 @@ Hantverkarsektorn i Sverige består av över **120 000 aktiva småföretag** (VV
 2.  **Internationell SaaS-konsolidering:** Globala reputation-jättar (t.ex. Trustpilot, Yelp, Podium) som köper Reputera för att etablera sig snabbt på den nordiska hantverkarmarknaden.
 
 ### Vilken värdering siktar ni på?
-Vi siktar på en exit under År 5 (2031) till en värdering på **150M – 180M SEK** baserat på en konservativ multipel av 8–10x på framtida ARR-tillväxt.
+Vi siktar på en exit under År 5 (2030) till en värdering på **150M – 180M SEK** baserat på en konservativ multipel av 8–10x på framtida ARR-tillväxt.
 
 ---
 

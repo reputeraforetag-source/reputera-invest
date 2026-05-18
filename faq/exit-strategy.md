@@ -57,7 +57,7 @@ Dessa bolag har redan hundratusentals hantverkare som kunder och letar ständigt
 *   **År 1–2 (2026–2027):** Fokus på svensk marknadsdominans och regional expansion. Etablera Fortnox-API samt nå break-even.
 *   **År 3 (2028):** Lansering i Norge och Danmark. Nå 18.0M SEK ARR.
 *   **År 4 (2029):** Påbörja förberedande dialoger med potentiella förvärvare genom ledande nordiska M&A-rådgivare (t.ex. Carnegie, GP Bullhound eller lokala SaaS-boutiques).
-*   **År 5 (2031):** Genomförande av strategisk exit.
+*   **År 5 (2030):** Genomförande av strategisk exit.
 
 ---
 
